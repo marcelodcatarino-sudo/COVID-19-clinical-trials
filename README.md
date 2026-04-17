@@ -106,7 +106,8 @@ COVID-19-clinical-trials/
 ├── MySQL schema/
 |        ├── Covid19_db.sql
 |        └── SQL Queries.sql
-└── README.md   
+├── README.md
+└── requirements.txt
 ```
 
 ## Tools
