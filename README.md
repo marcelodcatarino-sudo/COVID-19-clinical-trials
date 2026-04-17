@@ -110,11 +110,13 @@ COVID-19-clinical-trials/
 ```
 
 ## Tools
-- Language: Python 3.15.3+
+- Local Environment: Windows 11 (Architecture: amd64)
+- Development: Jupyter Notebook / VS Code
+- Language: Python 3.15.3
 - Data Manipulation: Pandas, NumPy
 - Visualization: Matplotlib, Seaborn
 - Standard Library: `os` (File System Management)
-- Database Management: MySQL
+- Database Management: MySQL 8.0.44
 
 ## Final Considerations and Improvements
 - Performed all the analysis and vizualization on Python
@@ -122,3 +124,4 @@ COVID-19-clinical-trials/
 - The Schema is missing the tables 'conditions' and 'outcomes'. Tried using ReGex to extract and clean information from 'Outcome Measures' and 'Conditions' but the results were not satisfatory.
 - File 'SQL queries' contains a set of queries to demonstrate the ability to conduct data retrieval, aggregation and table joins 
 - AI was heavily used to generate the code
+- Wasn't able to use Docker for containerization. To run this project locally, please find the libraries listed in requirements.txt
