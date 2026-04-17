@@ -6,19 +6,23 @@ The project implements a pipeline to clean unstructured clinical data and explor
 A second Jupyter Notebook contains the preparation of the raw dataset to structured tables designed dor MySQL integration
 
 ## Questions Raised
- 1. Landscape Overview:
+1. Landscape Overview:
    - How were trials distributed by type, status and phase?
    - How Status evolved over time?
    - What were the most studied conditions and comorbidities alongside COVID-19?
- 2. Failure Analysis:
+2. Failure Analysis:
    - Which aspects are associated with unsuccessful trials?
- 3. Enrollment Performance:
+3. Enrollment Performance:
    - What type of studies had higher enrollment and why?
- 4. Geographical Overview:
+4. Geographical Overview:
    - What countries led the research?
- 5. Duration Analysis:
+5. Duration Analysis:
    - What was the typical trial duration by phase?
    - What trials took longer than expected?
+
+## Key Insights
+
+![Trial Distribution](../outputs/plots/landscape_study type dist.png)
 
 ## Project Structure
 ```text
