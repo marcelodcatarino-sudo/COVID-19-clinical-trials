@@ -104,6 +104,8 @@ COVID-19-clinical-trials/
 │       └── Preparation for MySQL.ipynb
 ├── outputs/plots/
 ├── MySQL schema/
+|        ├── Covid19_db.sql
+|        └── SQL Queries.sql
 └── README.md   
 ```
 
@@ -118,5 +120,5 @@ COVID-19-clinical-trials/
 - Performed all the analysis and vizualization on Python
 - During the Cleaning phase, some columns (eg.'Acronym'). When loading the clean dataset to MySQL, the dropped columns were not included
 - The Schema is missing the tables 'conditions' and 'outcomes'. Tried using ReGex to extract and clean information from 'Outcome Measures' and 'Conditions' but the results were not satisfatory.
-- File 'SQL queries' was added to demonstrate capacity to conduct queries and joins 
+- File 'SQL queries' contains a set of queries to demonstrate the ability to conduct data retrieval, aggregation and table joins 
 - AI was heavily used to generate the code
