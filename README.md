@@ -22,7 +22,7 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ## Key Insights
 
-1. Landscape overview
+### 1. Landscape overview
 
 - The majority of studies are Interventional (57.2%), reflecting the urgency to find effective treatments and vaccines during the pandemic. 
 - Observational studies represent a significant share (42.2%), indicating the need to monitor and understand the disease's progression and long-term effects across populations. 
@@ -49,7 +49,7 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ![Therapeutic Focus](outputs/plots/landscape_therapeutic%20focus.png)
 
-2. Failure Analysis
+### 2. Failure Analysis
 - Focusing on unsuccessful studies (Withdrawn, Terminated, Suspended), the majority were associated to Academic and Public funders (typically categorized as 'Others'). In these institutions, resources are more limited which could explain the higher failure rates.
 
 ![Failure by Funder Type](outputs/plots/failure_by%20funder%20type.png)
@@ -60,19 +60,19 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ![Failure by Phase](outputs/plots/failure_by%20phase.png)
 
-3. Enrollment Performance
+### 3. Enrollment Performance
 - Observational studies were found to  enroll more participants than Interventional studies, with a median of 300 vs 120 respectively.
 
 ![Enrollment Distribution](outputs/plots/Dist%20of%20enrollment_%20interv%20vs%20Obs.png)
 
-4. Geographical Overview
+### 4. Geographical Overview
 - The countries that led the research are the USA (by far), France and United Kingdom. A large volum of studies with Unkown location was observed. These correspond mainly to studies that are Not recruiting yet, which indicates that the location where the studies will be conducted is yet to be determined.
 
 ![Top 10 Countries](outputs/plots/geographic_top%2010%20countries.png)
 
 ![Geographic Unknowns](outputs/plots/geographic_unknowns.png)
 
-5. Duration Analysis
+### 5. Duration Analysis
 - The majority of studies across all phases appear to have completion dates between 2020 and 2025.
 - As expected, Phase 1 and Phase 2 studies tend to have the longest durations (with exception of some outliers). This is consistent with the nature these trials which assessment of safety and efficacy.
 
@@ -81,6 +81,9 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 - When focusing specifically at the studies with unusually long completion dates (extending beyond 2026), these were found to be predominantly conducted in Egypt, with Tanta University standing out as the lead sponsor with the highest number of outlier studies. Naturally, this is reflected in the funding sources where the majority falls under 'Other'.
 
  ![Outliers Analysis](outputs/plots/duration%20analysis_inspection%20of%20outliers%20by%20country,%20sponsors%20and%20fund%20type.png)
+
+## Conclusions
+The analysis revealed a highly dynamic ecosystem where Interventional studies dominated the research effort to find immediate clinical solutions, while Observational research provided the necessary scale through Big Data and technology-driven recruitment to understand the disease's broader impact. By identifying failure patterns in critical stages (Phases 2 and 3) and uncovering geographical outliers in trial durations, this pipeline proves its value in filtering noise and pinpointing logistical anomalies within the global research landscape.
 
 ## Project Structure
 ```text
