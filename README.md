@@ -83,7 +83,7 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
  ![Outliers Analysis](outputs/plots/duration%20analysis_inspection%20of%20outliers%20by%20country,%20sponsors%20and%20fund%20type.png)
 
 ## Conclusions
-The analysis revealed a highly dynamic ecosystem where Interventional studies dominated the research effort to find immediate clinical solutions, while Observational research provided the necessary scale through Big Data and technology-driven recruitment to understand the disease's broader impact. By identifying failure patterns in critical stages (Phases 2 and 3) and uncovering geographical outliers in trial durations, this pipeline proves its value in filtering noise and pinpointing logistical anomalies within the global research landscape.
+The analysis revealed a highly dynamic ecosystem where Interventional studies dominated the research effort to find immediate clinical solutions, while Observational research provided the necessary scale through Big Data and technology-driven recruitment to understand the disease's broader impact. While there is much room for improvement in terms of data cleaning and transformation, this analysis proves its value in filtering noise and pinpointing logistical anomalies, such as failure patterns in critical stages (Phases 2 and 3) and geographical outliers in trial durations.
 
 ## Project Structure
 ```text
@@ -114,7 +114,7 @@ COVID-19-clinical-trials/
 - Standard Library: `os` (File System Management)
 - Database Management: MySQL
 
-## Final considerations
+## Final Considerations and Improvements
 - Performed all the analysis and vizualization on Python
 - During the Cleaning phase, some columns (eg.'Acronym'). When loading the clean dataset to MySQL, the dropped columns were not included
 - The Schema is missing the tables 'conditions' and 'outcomes'. Tried using ReGex to extract and clean information from 'Outcome Measures' and 'Conditions' but the results were not satisfatory.
