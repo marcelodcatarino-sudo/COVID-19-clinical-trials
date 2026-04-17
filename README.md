@@ -26,10 +26,10 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 - Observational studies represent a significant share (42.2%), indicating the need to monitor and understand the disease's progression and long-term effects across populations. 
 - Expanded Access (0.6%) represents a negligible fraction, as expected. These programs provide patients with serious conditions access to investigational treatments outside of formal clinical trials and have an exceptional nature.
 
-![Trial Distribution](outputs/plots/landscape_study%20type%20dist.png)
+![Study type Distribution](outputs/plots/landscape_study%20type%20dist.png)
 
 
-![Trial Distribution](outputs/plots/landscape_status%dist.png)
+![Status Distribution](outputs/plots/landscape_status%dist.png)
 ## Project Structure
 ```text
 COVID-19-clinical-trials/
