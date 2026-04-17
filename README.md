@@ -49,6 +49,39 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ![Therapeutic Focus](outputs/plots/landscape_therapeutic%20focus.png)
 
+2. Failure Analysis
+- Focusing on unsuccessful studies (Withdrawn, Terminated, Suspended), the majority were associated to Academic and Public funders (typically categorized as 'Others'). In these institutions, resources are more limited which could explain the higher failure rates.
+
+![Failure by Funder Type](outputs/plots/failure_by%20funder%20type.png)
+
+- These unsuccessfull studies were mostly on the phases 2 and 3. While, failure at Phase 2 (Exploratory phase) could be due to insufficient efficay, failure at Phase 3 (Confirmatory phase) may be due to budgetary struggles or loss of interest.
+- Observational studies typically rely on existing records and databases, making it easier and less costly to include large numbers of participants. When inspecting the the titles of the studies with the largest enrollment numbers, these were found to be related to Apps and Big Data projects. Technology-driven research allows projects to attract participants more easily than traditional methods.
+- Interventional studies, on the other hand, require direct intervention and close monitoring of each participant, which naturally limits the scale of recruitment.
+
+![Failure by Phase](outputs/plots/failure_by%20phase.png)
+
+3. Enrollment Performance
+- Observational studies were found to  enroll more participants than Interventional studies, with a median of 300 vs 120 respectively.
+
+![Enrollment Distribution](outputs/plots/Dist%20of%20enrollment_%20interv%20vs%20Obs.png)
+
+4. Geographical Overview
+- The countries that led the research are the USA (by far), France and United Kingdom. A large volum of studies with Unkown location was observed. These correspond mainly to studies that are Not recruiting yet, which indicates that the location where the studies will be conducted is yet to be determined.
+
+![Top 10 Countries](outputs/plots/geographic_top%2010%20countries.png)
+
+![Geographic Unknowns](outputs/plots/geographic_unknowns.png)
+
+5. Duration Analysis
+- The majority of studies across all phases appear to have completion dates between 2020 and 2025.
+- As expected, Phase 1 and Phase 2 studies tend to have the longest durations (with exception of some outliers). This is consistent with the nature these trials which assessment of safety and efficacy.
+
+ ![Completion by Phase](outputs/plots/duration%20analysis_completion%20by%20phase.png)
+
+- When focusing specifically at the studies with unusually long completion dates (extending beyond 2026), these were found to be predominantly conducted in Egypt, with Tanta University standing out as the lead sponsor with the highest number of outlier studies. Naturally, this is reflected in the funding sources where the majority falls under 'Other'.
+
+ ![Outliers Analysis](outputs/plots/duration%20analysis_inspection%20of%20outliers%20by%20country,%20sponsors%20and%20fund%20type.png)
+
 ## Project Structure
 ```text
 COVID-19-clinical-trials/
