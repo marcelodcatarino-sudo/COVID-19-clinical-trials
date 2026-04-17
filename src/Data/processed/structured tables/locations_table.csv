@@ -1,0 +1,5577 @@
+study_id,country
+1,France
+2,Colombia
+3,Italy
+4,Hong Kong
+5,France
+6,Vietnam
+7,United States
+8,India
+9,Israel
+10,Chile
+11,United States
+12,Italy
+13,United States
+14,Italy
+15,Israel
+16,France
+17,France
+18,Hong Kong
+19,Italy
+20,United Kingdom
+21,Italy
+22,United Arab Emirates
+23,Belgium
+24,Italy
+25,Norway
+26,Brazil
+27,Italy
+28,United States
+29,France
+30,France
+31,Bangladesh
+32,France
+33,Denmark
+34,Israel
+35,Italy
+36,Unknown
+37,Brazil
+38,United States
+39,France
+40,Spain
+41,United States
+42,Switzerland
+43,France
+44,Brazil
+45,Spain
+46,Unknown
+47,Finland
+48,Poland
+49,Egypt
+50,Denmark
+51,Denmark
+52,United Kingdom
+53,United States
+54,Turkey
+55,Indonesia
+56,Canada
+57,Unknown
+58,Israel
+59,Belgium
+60,Pakistan
+61,Turkey
+62,United States
+63,Sweden
+64,United States
+65,Turkey
+66,Spain
+67,Hungary
+68,India
+69,Unknown
+70,Turkey
+71,Poland
+72,Albania
+73,Sudan
+74,United States
+75,Bahrain
+76,Switzerland
+77,Italy
+78,Canada
+79,Unknown
+80,United States
+81,Italy
+82,United States
+83,Chile
+84,United States
+85,United States
+86,United States
+87,Nigeria
+88,France
+89,United States
+90,France
+91,United Kingdom
+92,Slovenia
+93,Islamic Republic of
+94,United States
+95,France
+96,France
+97,United States
+98,United States
+99,United States
+100,United States
+101,Bangladesh
+102,France
+103,Portugal
+104,United States
+105,Italy
+106,Turkey
+107,Unknown
+108,Colombia
+109,Spain
+110,Italy
+111,Unknown
+112,France
+113,Spain
+114,France
+115,Italy
+116,Colombia
+117,Republic of
+118,Turkey
+119,United Kingdom
+120,France
+121,United States
+122,Italy
+123,Israel
+124,Germany
+125,Brazil
+126,Thailand
+127,France
+128,Unknown
+129,Japan
+130,France
+131,United States
+132,Turkey
+133,Argentina
+134,Canada
+135,Denmark
+136,Spain
+137,Egypt
+138,Unknown
+139,Switzerland
+140,Vietnam
+141,France
+142,United States
+143,United States
+144,Turkey
+145,Pakistan
+146,France
+147,France
+148,Spain
+149,Spain
+150,France
+151,Spain
+152,United States
+153,France
+154,Canada
+155,Italy
+156,Egypt
+157,Unknown
+158,United States
+159,France
+160,Spain
+161,France
+162,Sweden
+163,United States
+164,Hong Kong
+165,Chile
+166,United States
+167,Canada
+168,France
+169,France
+170,Pakistan
+171,Egypt
+172,Italy
+173,India
+174,France
+175,Egypt
+176,United States
+177,Unknown
+178,Unknown
+179,Unknown
+180,Spain
+181,France
+182,Egypt
+183,Egypt
+184,Canada
+185,Unknown
+186,China
+187,Belgium
+188,France
+189,Unknown
+190,United States
+191,Italy
+192,China
+193,Mexico
+194,Canada
+195,United States
+196,Spain
+197,Italy
+198,Singapore
+199,Unknown
+200,Brazil
+201,United States
+202,France
+203,Belgium
+204,Costa Rica
+205,United States
+206,Unknown
+207,France
+208,Canada
+209,India
+210,United States
+211,Unknown
+212,France
+213,France
+214,France
+215,Mexico
+216,United States
+217,Egypt
+218,Philippines
+219,United States
+220,United States
+221,Japan
+222,Egypt
+223,Turkey
+224,Belarus
+225,Unknown
+226,France
+227,Unknown
+228,France
+229,France
+230,Portugal
+231,Saudi Arabia
+232,United States
+233,Czechia
+234,Spain
+235,France
+236,Czechia
+237,Brazil
+238,Spain
+239,United States
+240,United States
+241,Italy
+242,France
+243,United Kingdom
+244,United States
+245,Italy
+246,Peru
+247,France
+248,United States
+249,United States
+250,France
+251,United States
+252,Belarus
+253,United States
+254,Unknown
+255,Italy
+256,France
+257,France
+258,France
+259,Switzerland
+260,Brazil
+261,Egypt
+262,France
+263,France
+264,Indonesia
+265,United States
+266,Germany
+267,Egypt
+268,Germany
+269,Brazil
+270,Turkey
+271,Egypt
+272,Unknown
+273,Unknown
+274,France
+275,Turkey
+276,United States
+277,Japan
+278,United Kingdom
+279,Unknown
+280,Turkey
+281,Spain
+282,Italy
+283,Spain
+284,United States
+285,United States
+286,Norway
+287,Mexico
+288,Unknown
+289,Egypt
+290,Indonesia
+291,Spain
+292,United States
+293,Unknown
+294,China
+295,Italy
+296,Unknown
+297,United Kingdom
+298,United States
+299,Egypt
+300,Argentina
+301,France
+302,Egypt
+303,Netherlands
+304,Italy
+305,United States
+306,United States
+307,United States
+308,Egypt
+309,Colombia
+310,United States
+311,Turkey
+312,United States
+313,Greece
+314,Spain
+315,Sweden
+316,United Kingdom
+317,Mexico
+318,Canada
+319,France
+320,France
+321,China
+322,Unknown
+323,Unknown
+324,China
+325,United States
+326,Brazil
+327,Mexico
+328,Italy
+329,India
+330,United Kingdom
+331,Unknown
+332,Italy
+333,Spain
+334,Egypt
+335,Turkey
+336,France
+337,Belgium
+338,Egypt
+339,China
+340,United Kingdom
+341,Denmark
+342,Turkey
+343,Taiwan
+344,Unknown
+345,United States
+346,Tunisia
+347,United States
+348,Unknown
+349,Mexico
+350,Russian Federation
+351,Spain
+352,Unknown
+353,Unknown
+354,Unknown
+355,United Kingdom
+356,Turkey
+357,Poland
+358,United States
+359,Spain
+360,France
+361,Belgium
+362,Canada
+363,Egypt
+364,Russian Federation
+365,Singapore
+366,France
+367,Unknown
+368,Russian Federation
+369,Italy
+370,France
+371,France
+372,Saudi Arabia
+373,United States
+374,Unknown
+375,Colombia
+376,France
+377,Turkey
+378,Germany
+379,France
+380,France
+381,United Kingdom
+382,Unknown
+383,United Kingdom
+384,Pakistan
+385,Brazil
+386,Mexico
+387,France
+388,Costa Rica
+389,Unknown
+390,Unknown
+391,Unknown
+392,United States
+393,Sweden
+394,Italy
+395,Saudi Arabia
+396,Unknown
+397,Unknown
+398,Pakistan
+399,United States
+400,Spain
+401,United States
+402,Spain
+403,Russian Federation
+404,United Kingdom
+405,Iceland
+406,United States
+407,Unknown
+408,Belgium
+409,China
+410,Australia
+411,Belgium
+412,United States
+413,Israel
+414,Belgium
+415,Czechia
+416,France
+417,Ecuador
+418,Unknown
+419,Egypt
+420,Nigeria
+421,Poland
+422,France
+423,Unknown
+424,Kenya
+425,Chile
+426,United States
+427,Turkey
+428,Italy
+429,United States
+430,Egypt
+431,France
+432,Egypt
+433,Unknown
+434,United States
+435,United States
+436,Unknown
+437,Malaysia
+438,United Kingdom
+439,Italy
+440,United States
+441,Mali
+442,United States
+443,United States
+444,Denmark
+445,Netherlands
+446,Germany
+447,Turkey
+448,United States
+449,Israel
+450,France
+451,United States
+452,France
+453,Croatia
+454,Argentina
+455,United Kingdom
+456,Italy
+457,United States
+458,United States
+459,Belgium
+460,Unknown
+461,France
+462,United States
+463,United States
+464,France
+465,Unknown
+466,Mexico
+467,United States
+468,Russian Federation
+469,Unknown
+470,Peru
+471,Indonesia
+472,Saudi Arabia
+473,Spain
+474,France
+475,France
+476,United States
+477,Australia
+478,Tunisia
+479,China
+480,Turkey
+481,Italy
+482,United States
+483,Unknown
+484,Canada
+485,United States
+486,Canada
+487,Italy
+488,Spain
+489,France
+490,United Kingdom
+491,Egypt
+492,Egypt
+493,Egypt
+494,United Kingdom
+495,Canada
+496,United States
+497,Italy
+498,Canada
+499,Nigeria
+500,Russian Federation
+501,France
+502,Turkey
+503,United States
+504,Egypt
+505,Turkey
+506,Unknown
+507,Italy
+508,Egypt
+509,China
+510,United States
+511,United States
+512,Italy
+513,United States
+514,United States
+515,Turkey
+516,France
+517,Spain
+518,Belgium
+519,France
+520,Unknown
+521,Egypt
+522,Luxembourg
+523,Austria
+524,Brazil
+525,Kuwait
+526,United States
+527,India
+528,Germany
+529,Turkey
+530,Belgium
+531,Colombia
+532,Canada
+533,Tunisia
+534,Spain
+535,Unknown
+536,Belgium
+537,Turkey
+538,Paraguay
+539,India
+540,United States
+541,France
+542,Taiwan
+543,France
+544,Egypt
+545,Spain
+546,United Kingdom
+547,United Kingdom
+548,Italy
+549,Argentina
+550,Spain
+551,United States
+552,Canada
+553,Unknown
+554,North Macedonia
+555,France
+556,United States
+557,France
+558,China
+559,Argentina
+560,Italy
+561,Italy
+562,Italy
+563,Unknown
+564,United States
+565,Canada
+566,Spain
+567,Pakistan
+568,Unknown
+569,Monaco
+570,United States
+571,Austria
+572,Pakistan
+573,Unknown
+574,Canada
+575,French Guiana
+576,Turkey
+577,Germany
+578,United States
+579,United States
+580,France
+581,United Kingdom
+582,Philippines
+583,United States
+584,Greece
+585,France
+586,United States
+587,France
+588,Unknown
+589,Italy
+590,Brazil
+591,United States
+592,United States
+593,United States
+594,France
+595,Egypt
+596,Belgium
+597,Russian Federation
+598,France
+599,Belgium
+600,Qatar
+601,Greece
+602,United States
+603,Turkey
+604,United States
+605,Hong Kong
+606,Saudi Arabia
+607,France
+608,Italy
+609,Unknown
+610,Brazil
+611,Netherlands
+612,United States
+613,Switzerland
+614,China
+615,Sweden
+616,United States
+617,France
+618,Spain
+619,Unknown
+620,France
+621,Germany
+622,United States
+623,China
+624,Australia
+625,United States
+626,France
+627,France
+628,Unknown
+629,Turkey
+630,Germany
+631,Unknown
+632,Spain
+633,Argentina
+634,United States
+635,United States
+636,Italy
+637,United States
+638,Unknown
+639,United States
+640,Italy
+641,Pakistan
+642,Argentina
+643,India
+644,Unknown
+645,United States
+646,United Kingdom
+647,France
+648,France
+649,Unknown
+650,United States
+651,France
+652,United States
+653,Italy
+654,Turkey
+655,United States
+656,Canada
+657,Switzerland
+658,The Democratic Republic of the
+659,Switzerland
+660,Turkey
+661,France
+662,Jordan
+663,Russian Federation
+664,Belgium
+665,Russian Federation
+666,United States
+667,Japan
+668,United States
+669,United Kingdom
+670,France
+671,United Kingdom
+672,Unknown
+673,Belgium
+674,Spain
+675,Italy
+676,United States
+677,France
+678,Czechia
+679,France
+680,Spain
+681,Unknown
+682,Switzerland
+683,Unknown
+684,Sweden
+685,Egypt
+686,Czechia
+687,Unknown
+688,Denmark
+689,United States
+690,France
+691,Belgium
+692,Egypt
+693,Spain
+694,Israel
+695,Italy
+696,Unknown
+697,Unknown
+698,Italy
+699,Unknown
+700,United States
+701,Unknown
+702,United States
+703,United States
+704,Spain
+705,Unknown
+706,Spain
+707,Canada
+708,United States
+709,United States
+710,France
+711,South Africa
+712,Indonesia
+713,United States
+714,France
+715,United States
+716,Spain
+717,Spain
+718,France
+719,United States
+720,United States
+721,Unknown
+722,Denmark
+723,Brazil
+724,Sweden
+725,France
+726,United States
+727,France
+728,United States
+729,Russian Federation
+730,Canada
+731,Canada
+732,Canada
+733,France
+734,Algeria
+735,United States
+736,Austria
+737,Mexico
+738,United States
+739,Italy
+740,France
+741,Qatar
+742,France
+743,Unknown
+744,Unknown
+745,Saudi Arabia
+746,Unknown
+747,Argentina
+748,Spain
+749,United States
+750,Egypt
+751,Unknown
+752,Israel
+753,Mexico
+754,United Kingdom
+755,Italy
+756,United States
+757,Russian Federation
+758,Unknown
+759,Brazil
+760,Pakistan
+761,United States
+762,Turkey
+763,United States
+764,Belgium
+765,United States
+766,Argentina
+767,United Kingdom
+768,Russian Federation
+769,India
+770,United States
+771,Turkey
+772,Italy
+773,United States
+774,Germany
+775,Unknown
+776,Thailand
+777,Spain
+778,Pakistan
+779,United States
+780,Guinea-Bissau
+781,France
+782,Spain
+783,Colombia
+784,Republic of
+785,Unknown
+786,Brazil
+787,France
+788,Mexico
+789,Greece
+790,Spain
+791,India
+792,Unknown
+793,United States
+794,Portugal
+795,Brazil
+796,Italy
+797,Italy
+798,Colombia
+799,Mexico
+800,Pakistan
+801,India
+802,France
+803,Egypt
+804,Turkey
+805,United Kingdom
+806,France
+807,Switzerland
+808,Turkey
+809,Canada
+810,France
+811,Italy
+812,Unknown
+813,Italy
+814,United States
+815,Brazil
+816,Unknown
+817,Malaysia
+818,United States
+819,France
+820,Poland
+821,Norway
+822,Italy
+823,Unknown
+824,Unknown
+825,Italy
+826,Belgium
+827,Belgium
+828,Unknown
+829,Russian Federation
+830,Bangladesh
+831,Canada
+832,United States
+833,Mexico
+834,Hong Kong
+835,Switzerland
+836,The Democratic Republic of the
+837,Romania
+838,Italy
+839,Canada
+840,France
+841,Spain
+842,Spain
+843,France
+844,Mexico
+845,United Kingdom
+846,United States
+847,Austria
+848,United Kingdom
+849,China
+850,France
+851,France
+852,France
+853,Belgium
+854,Mexico
+855,Germany
+856,United States
+857,France
+858,Egypt
+859,United Kingdom
+860,United States
+861,Argentina
+862,France
+863,France
+864,Spain
+865,Spain
+866,United States
+867,Germany
+868,United States
+869,Argentina
+870,Unknown
+871,France
+872,France
+873,Denmark
+874,Italy
+875,India
+876,Egypt
+877,United States
+878,France
+879,Germany
+880,Canada
+881,Brazil
+882,China
+883,Turkey
+884,United States
+885,United States
+886,United States
+887,France
+888,Germany
+889,Italy
+890,Peru
+891,Unknown
+892,Unknown
+893,Turkey
+894,United States
+895,France
+896,Republic of
+897,United States
+898,Egypt
+899,France
+900,France
+901,Egypt
+902,Italy
+903,United States
+904,Unknown
+905,United States
+906,United States
+907,India
+908,France
+909,Egypt
+910,Unknown
+911,United States
+912,Argentina
+913,France
+914,Unknown
+915,Italy
+916,United Kingdom
+917,India
+918,Islamic Republic of
+919,France
+920,France
+921,Switzerland
+922,Unknown
+923,Hong Kong
+924,United States
+925,United States
+926,China
+927,Germany
+928,United States
+929,Slovenia
+930,India
+931,Unknown
+932,France
+933,Indonesia
+934,United States
+935,Germany
+936,Switzerland
+937,Egypt
+938,United States
+939,United States
+940,Unknown
+941,Spain
+942,France
+943,France
+944,France
+945,Indonesia
+946,Republic of
+947,Italy
+948,United States
+949,United States
+950,Spain
+951,United States
+952,Italy
+953,Unknown
+954,Republic of
+955,Brazil
+956,Brazil
+957,Italy
+958,France
+959,Russian Federation
+960,United States
+961,Egypt
+962,India
+963,Spain
+964,Egypt
+965,France
+966,Russian Federation
+967,Malaysia
+968,United States
+969,United States
+970,Egypt
+971,United States
+972,Germany
+973,Unknown
+974,Gambia
+975,Russian Federation
+976,United States
+977,United States
+978,Norway
+979,Turkey
+980,Italy
+981,Egypt
+982,United States
+983,France
+984,Israel
+985,United States
+986,United States
+987,Saudi Arabia
+988,France
+989,United States
+990,Poland
+991,United States
+992,Unknown
+993,Turkey
+994,France
+995,United Kingdom
+996,Australia
+997,France
+998,United States
+999,Unknown
+1000,United States
+1001,Austria
+1002,Canada
+1003,Russian Federation
+1004,Mexico
+1005,Brazil
+1006,China
+1007,Belgium
+1008,Unknown
+1009,Pakistan
+1010,South Africa
+1011,United States
+1012,France
+1013,Oman
+1014,Sweden
+1015,Egypt
+1016,Austria
+1017,France
+1018,Singapore
+1019,United States
+1020,United States
+1021,Italy
+1022,Austria
+1023,France
+1024,United States
+1025,France
+1026,Austria
+1027,Italy
+1028,United States
+1029,Israel
+1030,Unknown
+1031,Netherlands
+1032,Republic of
+1033,Turkey
+1034,Unknown
+1035,Italy
+1036,Brazil
+1037,Sweden
+1038,Spain
+1039,United States
+1040,Mexico
+1041,France
+1042,Brazil
+1043,Canada
+1044,Denmark
+1045,United States
+1046,France
+1047,Egypt
+1048,Italy
+1049,Bangladesh
+1050,United Kingdom
+1051,Canada
+1052,Australia
+1053,United States
+1054,Spain
+1055,Germany
+1056,Unknown
+1057,Turkey
+1058,Brazil
+1059,Italy
+1060,Germany
+1061,Slovenia
+1062,United States
+1063,Israel
+1064,Singapore
+1065,Unknown
+1066,United States
+1067,Unknown
+1068,Unknown
+1069,Italy
+1070,France
+1071,Spain
+1072,India
+1073,Egypt
+1074,Unknown
+1075,United States
+1076,France
+1077,Uganda
+1078,United States
+1079,Italy
+1080,Germany
+1081,Egypt
+1082,Italy
+1083,Colombia
+1084,Unknown
+1085,Turkey
+1086,Egypt
+1087,Canada
+1088,China
+1089,Turkey
+1090,Canada
+1091,United States
+1092,France
+1093,United Kingdom
+1094,Egypt
+1095,Austria
+1096,Greece
+1097,Belgium
+1098,Islamic Republic of
+1099,France
+1100,France
+1101,Belgium
+1102,Mexico
+1103,United States
+1104,United States
+1105,United States
+1106,Germany
+1107,United States
+1108,Israel
+1109,Unknown
+1110,United Kingdom
+1111,Spain
+1112,Belgium
+1113,Egypt
+1114,Bahrain
+1115,United States
+1116,France
+1117,Turkey
+1118,Unknown
+1119,United States
+1120,Belgium
+1121,Italy
+1122,United States
+1123,United States
+1124,Mexico
+1125,Italy
+1126,France
+1127,Germany
+1128,Switzerland
+1129,Bahrain
+1130,Unknown
+1131,France
+1132,Germany
+1133,France
+1134,United States
+1135,Unknown
+1136,Unknown
+1137,Unknown
+1138,Brazil
+1139,United Kingdom
+1140,Singapore
+1141,Egypt
+1142,United States
+1143,France
+1144,United States
+1145,Brazil
+1146,France
+1147,Egypt
+1148,Sweden
+1149,Islamic Republic of
+1150,Norway
+1151,United States
+1152,United States
+1153,Unknown
+1154,France
+1155,France
+1156,Islamic Republic of
+1157,France
+1158,Jordan
+1159,Unknown
+1160,France
+1161,United States
+1162,United Kingdom
+1163,Egypt
+1164,Norway
+1165,United States
+1166,Pakistan
+1167,Spain
+1168,Italy
+1169,Tunisia
+1170,Pakistan
+1171,Hungary
+1172,China
+1173,United States
+1174,Sweden
+1175,Turkey
+1176,United States
+1177,Spain
+1178,China
+1179,Canada
+1180,France
+1181,China
+1182,France
+1183,Turkey
+1184,France
+1185,United Kingdom
+1186,Italy
+1187,France
+1188,Egypt
+1189,France
+1190,Canada
+1191,Austria
+1192,United States
+1193,France
+1194,United States
+1195,United States
+1196,United States
+1197,Unknown
+1198,India
+1199,China
+1200,France
+1201,China
+1202,Unknown
+1203,France
+1204,Italy
+1205,India
+1206,United Kingdom
+1207,Unknown
+1208,Unknown
+1209,France
+1210,Portugal
+1211,United States
+1212,Spain
+1213,France
+1214,Bahrain
+1215,United States
+1216,France
+1217,United States
+1218,Germany
+1219,Unknown
+1220,Russian Federation
+1221,Canada
+1222,Germany
+1223,South Africa
+1224,United States
+1225,South Africa
+1226,Argentina
+1227,Austria
+1228,Norway
+1229,United States
+1230,Italy
+1231,Italy
+1232,Unknown
+1233,Canada
+1234,Denmark
+1235,Poland
+1236,Colombia
+1237,Spain
+1238,United States
+1239,Italy
+1240,China
+1241,Turkey
+1242,Turkey
+1243,United Kingdom
+1244,France
+1245,France
+1246,Netherlands
+1247,France
+1248,Egypt
+1249,Ukraine
+1250,United States
+1251,China
+1252,Germany
+1253,United States
+1254,France
+1255,Russian Federation
+1256,United States
+1257,France
+1258,South Africa
+1259,France
+1260,Mexico
+1261,Denmark
+1262,Spain
+1263,United States
+1264,United States
+1265,Mexico
+1266,United States
+1267,United States
+1268,United States
+1269,Sweden
+1270,Indonesia
+1271,France
+1272,Bangladesh
+1273,United States
+1274,Pakistan
+1275,Netherlands
+1276,Pakistan
+1277,France
+1278,United States
+1279,North Macedonia
+1280,Mexico
+1281,France
+1282,United States
+1283,Switzerland
+1284,Unknown
+1285,United States
+1286,United States
+1287,France
+1288,Italy
+1289,Egypt
+1290,Unknown
+1291,Poland
+1292,United States
+1293,France
+1294,Mexico
+1295,Denmark
+1296,Mexico
+1297,Italy
+1298,Germany
+1299,Taiwan
+1300,Unknown
+1301,Unknown
+1302,United States
+1303,United States
+1304,France
+1305,United States
+1306,France
+1307,Italy
+1308,Pakistan
+1309,France
+1310,Unknown
+1311,France
+1312,Brazil
+1313,Bolivia
+1314,France
+1315,France
+1316,United States
+1317,Japan
+1318,Jordan
+1319,United States
+1320,United States
+1321,France
+1322,Sweden
+1323,Spain
+1324,Russian Federation
+1325,France
+1326,Indonesia
+1327,Belgium
+1328,France
+1329,Spain
+1330,United States
+1331,Spain
+1332,Brazil
+1333,Bangladesh
+1334,Turkey
+1335,United States
+1336,Denmark
+1337,Denmark
+1338,Kuwait
+1339,United States
+1340,United Kingdom
+1341,Unknown
+1342,United States
+1343,United Kingdom
+1344,Mexico
+1345,Unknown
+1346,Egypt
+1347,Unknown
+1348,Canada
+1349,Unknown
+1350,Norway
+1351,Finland
+1352,Italy
+1353,Poland
+1354,United States
+1355,United States
+1356,France
+1357,Italy
+1358,United States
+1359,United States
+1360,United States
+1361,Unknown
+1362,Japan
+1363,France
+1364,United States
+1365,Slovenia
+1366,France
+1367,Canada
+1368,India
+1369,Colombia
+1370,United States
+1371,Islamic Republic of
+1372,United States
+1373,United States
+1374,United States
+1375,United States
+1376,Mexico
+1377,Brazil
+1378,France
+1379,Kazakhstan
+1380,United States
+1381,United States
+1382,United States
+1383,Switzerland
+1384,Egypt
+1385,France
+1386,France
+1387,Unknown
+1388,Turkey
+1389,United States
+1390,Colombia
+1391,United States
+1392,France
+1393,United States
+1394,United States
+1395,Belgium
+1396,Egypt
+1397,France
+1398,Philippines
+1399,Italy
+1400,Russian Federation
+1401,United States
+1402,United States
+1403,France
+1404,Israel
+1405,Turkey
+1406,United States
+1407,Netherlands
+1408,India
+1409,Austria
+1410,Egypt
+1411,Germany
+1412,Germany
+1413,United States
+1414,United States
+1415,United States
+1416,Egypt
+1417,United States
+1418,Canada
+1419,United States
+1420,United States
+1421,China
+1422,United States
+1423,Israel
+1424,Belgium
+1425,United States
+1426,Qatar
+1427,Spain
+1428,United States
+1429,United States
+1430,Canada
+1431,United States
+1432,United States
+1433,China
+1434,Slovakia
+1435,France
+1436,France
+1437,United States
+1438,Greece
+1439,Canada
+1440,Italy
+1441,Greece
+1442,United States
+1443,United States
+1444,Norway
+1445,Hungary
+1446,French Guiana
+1447,United States
+1448,Italy
+1449,Belgium
+1450,United States
+1451,United Kingdom
+1452,Russian Federation
+1453,Unknown
+1454,United States
+1455,Russian Federation
+1456,France
+1457,Unknown
+1458,United States
+1459,Egypt
+1460,China
+1461,United States
+1462,Jordan
+1463,United States
+1464,United States
+1465,United States
+1466,United Kingdom
+1467,Unknown
+1468,Greece
+1469,Unknown
+1470,France
+1471,Italy
+1472,United States
+1473,Switzerland
+1474,Colombia
+1475,United States
+1476,Norway
+1477,China
+1478,Germany
+1479,Unknown
+1480,Argentina
+1481,Spain
+1482,Unknown
+1483,Canada
+1484,United States
+1485,Canada
+1486,United Kingdom
+1487,United Kingdom
+1488,Unknown
+1489,Mexico
+1490,Spain
+1491,France
+1492,France
+1493,Pakistan
+1494,United States
+1495,Italy
+1496,Azerbaijan
+1497,Bangladesh
+1498,Turkey
+1499,Germany
+1500,Egypt
+1501,United States
+1502,Turkey
+1503,Turkey
+1504,France
+1505,Greece
+1506,United Kingdom
+1507,France
+1508,France
+1509,Canada
+1510,United Kingdom
+1511,United Kingdom
+1512,Pakistan
+1513,Turkey
+1514,Argentina
+1515,Netherlands
+1516,South Africa
+1517,United Kingdom
+1518,France
+1519,Islamic Republic of
+1520,Ethiopia
+1521,Pakistan
+1522,Unknown
+1523,France
+1524,Sweden
+1525,Turkey
+1526,United States
+1527,Turkey
+1528,United Kingdom
+1529,United States
+1530,Argentina
+1531,United States
+1532,Germany
+1533,Hong Kong
+1534,China
+1535,Unknown
+1536,United States
+1537,Italy
+1538,France
+1539,Spain
+1540,Pakistan
+1541,Italy
+1542,Egypt
+1543,United States
+1544,Egypt
+1545,France
+1546,India
+1547,France
+1548,Mexico
+1549,Mexico
+1550,Italy
+1551,Unknown
+1552,Austria
+1553,United Kingdom
+1554,Saudi Arabia
+1555,United States
+1556,Egypt
+1557,Kyrgyzstan
+1558,United States
+1559,Egypt
+1560,United States
+1561,Austria
+1562,Egypt
+1563,France
+1564,United States
+1565,United States
+1566,United States
+1567,France
+1568,France
+1569,United States
+1570,Colombia
+1571,France
+1572,Argentina
+1573,Tunisia
+1574,Italy
+1575,Unknown
+1576,Unknown
+1577,Spain
+1578,United States
+1579,United States
+1580,Bangladesh
+1581,Saudi Arabia
+1582,United States
+1583,Unknown
+1584,France
+1585,Turkey
+1586,China
+1587,Germany
+1588,New Zealand
+1589,France
+1590,China
+1591,Egypt
+1592,Pakistan
+1593,Russian Federation
+1594,Unknown
+1595,United States
+1596,United States
+1597,France
+1598,United States
+1599,United States
+1600,Russian Federation
+1601,Egypt
+1602,Egypt
+1603,United States
+1604,United States
+1605,China
+1606,United States
+1607,United States
+1608,United States
+1609,Brazil
+1610,Hungary
+1611,Spain
+1612,France
+1613,Turkey
+1614,Spain
+1615,Spain
+1616,Malaysia
+1617,United States
+1618,Brazil
+1619,France
+1620,Unknown
+1621,Italy
+1622,Unknown
+1623,United States
+1624,Egypt
+1625,Dominican Republic
+1626,Mexico
+1627,Unknown
+1628,United States
+1629,Unknown
+1630,Russian Federation
+1631,United States
+1632,Norway
+1633,Turkey
+1634,Unknown
+1635,Egypt
+1636,France
+1637,Germany
+1638,Spain
+1639,France
+1640,France
+1641,United States
+1642,France
+1643,Vietnam
+1644,Denmark
+1645,India
+1646,United States
+1647,United States
+1648,Turkey
+1649,Brazil
+1650,United States
+1651,Germany
+1652,United States
+1653,Argentina
+1654,Unknown
+1655,Turkey
+1656,Mexico
+1657,Unknown
+1658,Saudi Arabia
+1659,Turkey
+1660,Islamic Republic of
+1661,Unknown
+1662,Netherlands
+1663,Turkey
+1664,United States
+1665,China
+1666,United States
+1667,France
+1668,Italy
+1669,China
+1670,Denmark
+1671,Germany
+1672,United States
+1673,Pakistan
+1674,Australia
+1675,United States
+1676,United States
+1677,China
+1678,United States
+1679,Spain
+1680,Mexico
+1681,United States
+1682,Netherlands
+1683,United States
+1684,Unknown
+1685,Germany
+1686,France
+1687,United States
+1688,United States
+1689,Austria
+1690,United States
+1691,Netherlands
+1692,Kazakhstan
+1693,Egypt
+1694,Canada
+1695,United States
+1696,Pakistan
+1697,India
+1698,France
+1699,United States
+1700,Egypt
+1701,China
+1702,United Kingdom
+1703,Netherlands
+1704,Saudi Arabia
+1705,United States
+1706,Turkey
+1707,United States
+1708,Germany
+1709,France
+1710,Switzerland
+1711,Saudi Arabia
+1712,United States
+1713,Unknown
+1714,Egypt
+1715,United Kingdom
+1716,France
+1717,Unknown
+1718,Unknown
+1719,United Kingdom
+1720,Denmark
+1721,United Kingdom
+1722,Egypt
+1723,United States
+1724,Saudi Arabia
+1725,Brazil
+1726,Italy
+1727,Unknown
+1728,United States
+1729,Spain
+1730,United Kingdom
+1731,Egypt
+1732,United States
+1733,Italy
+1734,Spain
+1735,Unknown
+1736,Turkey
+1737,Bangladesh
+1738,France
+1739,Unknown
+1740,United States
+1741,Unknown
+1742,Russian Federation
+1743,France
+1744,Italy
+1745,Unknown
+1746,France
+1747,Spain
+1748,United States
+1749,Nepal
+1750,Bangladesh
+1751,France
+1752,United States
+1753,United States
+1754,United States
+1755,United States
+1756,Egypt
+1757,China
+1758,Russian Federation
+1759,United States
+1760,United States
+1761,Italy
+1762,United Kingdom
+1763,United States
+1764,Belgium
+1765,United Kingdom
+1766,Mexico
+1767,France
+1768,Brazil
+1769,France
+1770,Switzerland
+1771,Italy
+1772,Japan
+1773,United States
+1774,France
+1775,Unknown
+1776,China
+1777,Switzerland
+1778,Chile
+1779,United States
+1780,Unknown
+1781,Egypt
+1782,United States
+1783,United States
+1784,France
+1785,United Kingdom
+1786,Spain
+1787,Canada
+1788,Sweden
+1789,United States
+1790,Israel
+1791,Turkey
+1792,Netherlands
+1793,France
+1794,France
+1795,Netherlands
+1796,Pakistan
+1797,United States
+1798,Ethiopia
+1799,Unknown
+1800,Germany
+1801,France
+1802,Italy
+1803,Mexico
+1804,Spain
+1805,France
+1806,Egypt
+1807,Netherlands
+1808,Unknown
+1809,Italy
+1810,Unknown
+1811,France
+1812,Egypt
+1813,Hong Kong
+1814,Egypt
+1815,Unknown
+1816,Netherlands
+1817,United States
+1818,France
+1819,Pakistan
+1820,United States
+1821,Sweden
+1822,Colombia
+1823,Australia
+1824,France
+1825,Italy
+1826,Italy
+1827,Islamic Republic of
+1828,United States
+1829,United States
+1830,Unknown
+1831,United States
+1832,France
+1833,Sweden
+1834,United States
+1835,Spain
+1836,South Africa
+1837,Unknown
+1838,Germany
+1839,Australia
+1840,India
+1841,Unknown
+1842,Unknown
+1843,France
+1844,United States
+1845,United States
+1846,United States
+1847,United States
+1848,Unknown
+1849,United States
+1850,France
+1851,Mozambique
+1852,Austria
+1853,Hong Kong
+1854,Unknown
+1855,China
+1856,Belgium
+1857,United States
+1858,Pakistan
+1859,Belgium
+1860,Argentina
+1861,Italy
+1862,Iraq
+1863,United States
+1864,Singapore
+1865,United States
+1866,Italy
+1867,Unknown
+1868,Brazil
+1869,Unknown
+1870,Unknown
+1871,Turkey
+1872,India
+1873,Egypt
+1874,France
+1875,Mexico
+1876,France
+1877,United Kingdom
+1878,United States
+1879,Unknown
+1880,Turkey
+1881,Turkey
+1882,France
+1883,France
+1884,Italy
+1885,United Kingdom
+1886,Italy
+1887,Spain
+1888,Unknown
+1889,United States
+1890,Italy
+1891,United States
+1892,United States
+1893,United States
+1894,Luxembourg
+1895,United States
+1896,Unknown
+1897,United Kingdom
+1898,Turkey
+1899,United Kingdom
+1900,Italy
+1901,Unknown
+1902,Poland
+1903,Colombia
+1904,United States
+1905,Spain
+1906,United States
+1907,Unknown
+1908,Canada
+1909,United States
+1910,United Kingdom
+1911,France
+1912,Mexico
+1913,Italy
+1914,Iceland
+1915,Brazil
+1916,Unknown
+1917,Turkey
+1918,Spain
+1919,Brazil
+1920,Mexico
+1921,United States
+1922,Israel
+1923,Spain
+1924,France
+1925,Spain
+1926,Brazil
+1927,Egypt
+1928,United States
+1929,Hong Kong
+1930,France
+1931,Spain
+1932,United States
+1933,United States
+1934,Unknown
+1935,United States
+1936,India
+1937,United States
+1938,Belgium
+1939,France
+1940,United States
+1941,Kazakhstan
+1942,France
+1943,Spain
+1944,United States
+1945,Unknown
+1946,Turkey
+1947,United States
+1948,Islamic Republic of
+1949,Unknown
+1950,France
+1951,South Africa
+1952,United States
+1953,United States
+1954,France
+1955,Denmark
+1956,India
+1957,United Kingdom
+1958,Italy
+1959,Unknown
+1960,United States
+1961,France
+1962,France
+1963,United Kingdom
+1964,Unknown
+1965,Italy
+1966,United States
+1967,United Kingdom
+1968,Pakistan
+1969,Egypt
+1970,Netherlands
+1971,Unknown
+1972,Canada
+1973,Israel
+1974,United States
+1975,Senegal
+1976,United States
+1977,Canada
+1978,Brazil
+1979,United States
+1980,United States
+1981,United States
+1982,United States
+1983,Germany
+1984,United States
+1985,Denmark
+1986,United States
+1987,Puerto Rico
+1988,United States
+1989,Brazil
+1990,Egypt
+1991,United States
+1992,United Kingdom
+1993,China
+1994,Unknown
+1995,Israel
+1996,Belgium
+1997,Denmark
+1998,France
+1999,France
+2000,Unknown
+2001,Japan
+2002,Saudi Arabia
+2003,United Kingdom
+2004,Italy
+2005,France
+2006,France
+2007,Spain
+2008,United States
+2009,United Kingdom
+2010,Turkey
+2011,Singapore
+2012,United States
+2013,Colombia
+2014,United States
+2015,Unknown
+2016,Colombia
+2017,Spain
+2018,United States
+2019,Turkey
+2020,China
+2021,United States
+2022,Ukraine
+2023,United Kingdom
+2024,China
+2025,Egypt
+2026,Turkey
+2027,Argentina
+2028,Colombia
+2029,Italy
+2030,China
+2031,Republic of
+2032,United States
+2033,United States
+2034,Australia
+2035,Czechia
+2036,Australia
+2037,China
+2038,Unknown
+2039,United States
+2040,United States
+2041,United States
+2042,Brazil
+2043,Republic of
+2044,United Kingdom
+2045,United Kingdom
+2046,United States
+2047,Unknown
+2048,Unknown
+2049,United States
+2050,Belgium
+2051,France
+2052,Finland
+2053,France
+2054,United States
+2055,France
+2056,Canada
+2057,France
+2058,United States
+2059,United States
+2060,Egypt
+2061,Japan
+2062,Unknown
+2063,Cameroon
+2064,United States
+2065,United States
+2066,Mexico
+2067,Egypt
+2068,Unknown
+2069,France
+2070,Italy
+2071,Sweden
+2072,United States
+2073,Egypt
+2074,Turkey
+2075,France
+2076,Nepal
+2077,United States
+2078,Bosnia and Herzegovina
+2079,Switzerland
+2080,Russian Federation
+2081,United States
+2082,United States
+2083,Italy
+2084,United Kingdom
+2085,China
+2086,Ecuador
+2087,Turkey
+2088,Brazil
+2089,Spain
+2090,Iraq
+2091,Colombia
+2092,Canada
+2093,Unknown
+2094,United States
+2095,Unknown
+2096,United Kingdom
+2097,Canada
+2098,Pakistan
+2099,France
+2100,United States
+2101,Brazil
+2102,United States
+2103,United States
+2104,Sweden
+2105,South Africa
+2106,United States
+2107,Egypt
+2108,China
+2109,France
+2110,Egypt
+2111,Switzerland
+2112,France
+2113,Argentina
+2114,Norway
+2115,Netherlands
+2116,France
+2117,Turkey
+2118,France
+2119,Unknown
+2120,Unknown
+2121,United States
+2122,United States
+2123,United States
+2124,United States
+2125,Brazil
+2126,United States
+2127,China
+2128,Ireland
+2129,United States
+2130,Brazil
+2131,Turkey
+2132,United States
+2133,Italy
+2134,Israel
+2135,France
+2136,Egypt
+2137,Belgium
+2138,Italy
+2139,Egypt
+2140,United States
+2141,Egypt
+2142,United States
+2143,United States
+2144,Egypt
+2145,Unknown
+2146,United States
+2147,Switzerland
+2148,France
+2149,France
+2150,Spain
+2151,Canada
+2152,Italy
+2153,France
+2154,United Arab Emirates
+2155,United States
+2156,Italy
+2157,India
+2158,Canada
+2159,Egypt
+2160,Unknown
+2161,Brazil
+2162,United Kingdom
+2163,Germany
+2164,Switzerland
+2165,United States
+2166,United States
+2167,France
+2168,Poland
+2169,United Kingdom
+2170,United States
+2171,Unknown
+2172,France
+2173,China
+2174,United States
+2175,Germany
+2176,United States
+2177,United States
+2178,France
+2179,Brazil
+2180,Hong Kong
+2181,Indonesia
+2182,China
+2183,Brazil
+2184,Italy
+2185,United States
+2186,United States
+2187,Egypt
+2188,Spain
+2189,France
+2190,Hungary
+2191,United States
+2192,Switzerland
+2193,Norway
+2194,France
+2195,United States
+2196,Egypt
+2197,United States
+2198,Switzerland
+2199,Unknown
+2200,United States
+2201,Unknown
+2202,Netherlands
+2203,Unknown
+2204,Poland
+2205,Unknown
+2206,Unknown
+2207,China
+2208,Chile
+2209,Egypt
+2210,Australia
+2211,Egypt
+2212,Argentina
+2213,United States
+2214,United Kingdom
+2215,Brazil
+2216,Lebanon
+2217,Tunisia
+2218,Qatar
+2219,United States
+2220,Canada
+2221,Egypt
+2222,Ukraine
+2223,Germany
+2224,France
+2225,Russian Federation
+2226,Egypt
+2227,Argentina
+2228,France
+2229,France
+2230,United Kingdom
+2231,Denmark
+2232,Spain
+2233,Spain
+2234,Norway
+2235,United States
+2236,United States
+2237,Canada
+2238,United States
+2239,United States
+2240,Australia
+2241,Israel
+2242,France
+2243,Germany
+2244,Finland
+2245,United States
+2246,Unknown
+2247,Sweden
+2248,United States
+2249,France
+2250,United States
+2251,Spain
+2252,United States
+2253,United States
+2254,Egypt
+2255,Colombia
+2256,Spain
+2257,United States
+2258,France
+2259,Canada
+2260,France
+2261,France
+2262,France
+2263,Greece
+2264,United States
+2265,Italy
+2266,Bangladesh
+2267,United States
+2268,China
+2269,Netherlands
+2270,Jordan
+2271,France
+2272,Hong Kong
+2273,Denmark
+2274,Unknown
+2275,Unknown
+2276,France
+2277,Turkey
+2278,United States
+2279,Unknown
+2280,Mexico
+2281,United Kingdom
+2282,Saudi Arabia
+2283,Egypt
+2284,France
+2285,Egypt
+2286,United States
+2287,Mexico
+2288,Italy
+2289,Canada
+2290,Singapore
+2291,Spain
+2292,United Kingdom
+2293,Unknown
+2294,United States
+2295,Unknown
+2296,United States
+2297,The Democratic Republic of the
+2298,Malaysia
+2299,Unknown
+2300,Turkey
+2301,United States
+2302,Netherlands
+2303,United States
+2304,United States
+2305,United Kingdom
+2306,India
+2307,Denmark
+2308,Belgium
+2309,Turkey
+2310,Turkey
+2311,United Kingdom
+2312,Unknown
+2313,United Kingdom
+2314,Belgium
+2315,Egypt
+2316,France
+2317,Israel
+2318,France
+2319,United States
+2320,Spain
+2321,France
+2322,Canada
+2323,Switzerland
+2324,United States
+2325,Belarus
+2326,China
+2327,Greece
+2328,Egypt
+2329,United States
+2330,United States
+2331,Canada
+2332,United Kingdom
+2333,Canada
+2334,Egypt
+2335,United States
+2336,United States
+2337,Burkina Faso
+2338,Islamic Republic of
+2339,Mexico
+2340,Iraq
+2341,United States
+2342,United States
+2343,Denmark
+2344,Bangladesh
+2345,Canada
+2346,Germany
+2347,United Kingdom
+2348,Turkey
+2349,Italy
+2350,Germany
+2351,Netherlands
+2352,Unknown
+2353,Unknown
+2354,United States
+2355,Unknown
+2356,Turkey
+2357,Russian Federation
+2358,United States
+2359,United States
+2360,United States
+2361,United States
+2362,Netherlands
+2363,United States
+2364,Spain
+2365,India
+2366,Greece
+2367,United States
+2368,Brazil
+2369,Peru
+2370,United States
+2371,France
+2372,United States
+2373,Netherlands
+2374,United States
+2375,Turkey
+2376,Unknown
+2377,Cape Verde
+2378,Argentina
+2379,Italy
+2380,United States
+2381,United States
+2382,United States
+2383,Unknown
+2384,Italy
+2385,United States
+2386,Unknown
+2387,Brazil
+2388,Germany
+2389,United States
+2390,Russian Federation
+2391,United States
+2392,France
+2393,United States
+2394,United States
+2395,Argentina
+2396,United States
+2397,United States
+2398,United States
+2399,Unknown
+2400,Canada
+2401,United States
+2402,Turkey
+2403,United States
+2404,United States
+2405,Brazil
+2406,United States
+2407,United States
+2408,United States
+2409,United States
+2410,Poland
+2411,Italy
+2412,United States
+2413,United States
+2414,Belgium
+2415,Belgium
+2416,Spain
+2417,Unknown
+2418,Spain
+2419,Singapore
+2420,United States
+2421,Belgium
+2422,Ireland
+2423,Pakistan
+2424,United States
+2425,Unknown
+2426,United States
+2427,Greece
+2428,United States
+2429,United States
+2430,United States
+2431,United Kingdom
+2432,United States
+2433,Unknown
+2434,China
+2435,United States
+2436,Netherlands
+2437,Italy
+2438,United States
+2439,United States
+2440,Brazil
+2441,Denmark
+2442,Unknown
+2443,France
+2444,Netherlands
+2445,Switzerland
+2446,Russian Federation
+2447,France
+2448,Chile
+2449,Belgium
+2450,Brazil
+2451,Canada
+2452,Unknown
+2453,Kuwait
+2454,United States
+2455,United States
+2456,Italy
+2457,Unknown
+2458,United Kingdom
+2459,Italy
+2460,China
+2461,Turkey
+2462,Argentina
+2463,France
+2464,United States
+2465,China
+2466,France
+2467,United States
+2468,United States
+2469,United States
+2470,United States
+2471,Spain
+2472,Argentina
+2473,Germany
+2474,United States
+2475,France
+2476,India
+2477,Chile
+2478,Belgium
+2479,United States
+2480,United States
+2481,Turkey
+2482,Turkey
+2483,China
+2484,Spain
+2485,China
+2486,Unknown
+2487,Unknown
+2488,Unknown
+2489,Belgium
+2490,France
+2491,France
+2492,Unknown
+2493,Turkey
+2494,Spain
+2495,Spain
+2496,Brazil
+2497,Switzerland
+2498,France
+2499,France
+2500,France
+2501,United States
+2502,Canada
+2503,Italy
+2504,Unknown
+2505,United States
+2506,Belgium
+2507,United Kingdom
+2508,Egypt
+2509,France
+2510,Belgium
+2511,Spain
+2512,United States
+2513,United States
+2514,China
+2515,Singapore
+2516,Russian Federation
+2517,United States
+2518,Unknown
+2519,Canada
+2520,United States
+2521,Unknown
+2522,France
+2523,Belgium
+2524,Islamic Republic of
+2525,United States
+2526,United Kingdom
+2527,France
+2528,United States
+2529,Egypt
+2530,Belgium
+2531,Unknown
+2532,Sweden
+2533,China
+2534,France
+2535,Italy
+2536,Brazil
+2537,Pakistan
+2538,Argentina
+2539,Unknown
+2540,United States
+2541,Netherlands
+2542,United States
+2543,Unknown
+2544,Turkey
+2545,Spain
+2546,France
+2547,Peru
+2548,Côte D'Ivoire
+2549,Italy
+2550,France
+2551,Netherlands
+2552,Mexico
+2553,India
+2554,China
+2555,Argentina
+2556,France
+2557,Turkey
+2558,Spain
+2559,United Kingdom
+2560,China
+2561,France
+2562,Unknown
+2563,Italy
+2564,Qatar
+2565,Italy
+2566,United States
+2567,France
+2568,United States
+2569,Egypt
+2570,China
+2571,United States
+2572,United States
+2573,Unknown
+2574,Unknown
+2575,United States
+2576,Unknown
+2577,Unknown
+2578,Costa Rica
+2579,Indonesia
+2580,France
+2581,Russian Federation
+2582,United States
+2583,Germany
+2584,Mexico
+2585,Hong Kong
+2586,United States
+2587,Germany
+2588,United States
+2589,Austria
+2590,Denmark
+2591,Brazil
+2592,United Kingdom
+2593,Unknown
+2594,Unknown
+2595,Greece
+2596,France
+2597,United States
+2598,United Kingdom
+2599,France
+2600,Egypt
+2601,China
+2602,United States
+2603,United States
+2604,United States
+2605,China
+2606,United Kingdom
+2607,Turkey
+2608,Italy
+2609,Canada
+2610,United Kingdom
+2611,Italy
+2612,Unknown
+2613,United States
+2614,Belgium
+2615,United States
+2616,Spain
+2617,Canada
+2618,Hungary
+2619,Spain
+2620,Unknown
+2621,Germany
+2622,Spain
+2623,Egypt
+2624,United States
+2625,France
+2626,United States
+2627,France
+2628,Unknown
+2629,Belgium
+2630,Canada
+2631,United States
+2632,Germany
+2633,Unknown
+2634,Argentina
+2635,France
+2636,France
+2637,Argentina
+2638,Spain
+2639,China
+2640,France
+2641,France
+2642,United States
+2643,Spain
+2644,Brazil
+2645,United States
+2646,Switzerland
+2647,United States
+2648,Denmark
+2649,France
+2650,Brazil
+2651,United States
+2652,Unknown
+2653,Turkey
+2654,United Kingdom
+2655,France
+2656,Spain
+2657,China
+2658,United States
+2659,France
+2660,Unknown
+2661,United States
+2662,India
+2663,Germany
+2664,Spain
+2665,Brazil
+2666,Indonesia
+2667,United States
+2668,United States
+2669,Canada
+2670,United States
+2671,France
+2672,Egypt
+2673,Canada
+2674,United States
+2675,Egypt
+2676,Switzerland
+2677,United States
+2678,Egypt
+2679,United States
+2680,France
+2681,Mexico
+2682,United States
+2683,United States
+2684,Philippines
+2685,Norway
+2686,Cape Verde
+2687,Belarus
+2688,Turkey
+2689,Iraq
+2690,United States
+2691,Switzerland
+2692,United States
+2693,Unknown
+2694,Turkey
+2695,United Kingdom
+2696,France
+2697,Iraq
+2698,Netherlands
+2699,Spain
+2700,United States
+2701,South Africa
+2702,United States
+2703,United States
+2704,Republic of
+2705,Iraq
+2706,United States
+2707,Brazil
+2708,Bangladesh
+2709,United States
+2710,Ukraine
+2711,China
+2712,United States
+2713,Belgium
+2714,France
+2715,United States
+2716,United Kingdom
+2717,Brazil
+2718,Italy
+2719,United States
+2720,Denmark
+2721,Unknown
+2722,France
+2723,United States
+2724,Unknown
+2725,Turkey
+2726,Italy
+2727,Egypt
+2728,France
+2729,Switzerland
+2730,Switzerland
+2731,United States
+2732,Brazil
+2733,Egypt
+2734,France
+2735,Denmark
+2736,United States
+2737,Argentina
+2738,Pakistan
+2739,India
+2740,United States
+2741,Egypt
+2742,Dominican Republic
+2743,Qatar
+2744,Singapore
+2745,Unknown
+2746,China
+2747,Guinea
+2748,United States
+2749,Russian Federation
+2750,France
+2751,Greece
+2752,Portugal
+2753,Argentina
+2754,Unknown
+2755,United States
+2756,Spain
+2757,United States
+2758,United States
+2759,Belgium
+2760,Italy
+2761,Italy
+2762,Canada
+2763,United States
+2764,Israel
+2765,Spain
+2766,Spain
+2767,Germany
+2768,Germany
+2769,Mexico
+2770,United States
+2771,Colombia
+2772,France
+2773,Mexico
+2774,Switzerland
+2775,Turkey
+2776,Unknown
+2777,Norway
+2778,Italy
+2779,United States
+2780,United States
+2781,Ireland
+2782,Unknown
+2783,United States
+2784,France
+2785,United States
+2786,United States
+2787,China
+2788,United Kingdom
+2789,United States
+2790,Norway
+2791,Malaysia
+2792,France
+2793,United States
+2794,Spain
+2795,Paraguay
+2796,United States
+2797,United States
+2798,United States
+2799,France
+2800,United States
+2801,China
+2802,Unknown
+2803,China
+2804,Canada
+2805,Spain
+2806,Spain
+2807,Unknown
+2808,Unknown
+2809,Hong Kong
+2810,Egypt
+2811,Jamaica
+2812,Denmark
+2813,Switzerland
+2814,Pakistan
+2815,Sweden
+2816,United States
+2817,United States
+2818,Israel
+2819,Spain
+2820,United States
+2821,United States
+2822,France
+2823,United States
+2824,Turkey
+2825,United States
+2826,Argentina
+2827,Belgium
+2828,Italy
+2829,Turkey
+2830,France
+2831,United States
+2832,United States
+2833,United States
+2834,United States
+2835,United States
+2836,United States
+2837,Turkey
+2838,Belgium
+2839,Spain
+2840,United States
+2841,United States
+2842,Unknown
+2843,France
+2844,United States
+2845,United States
+2846,Argentina
+2847,Czechia
+2848,Argentina
+2849,Brazil
+2850,Israel
+2851,Brazil
+2852,United States
+2853,United States
+2854,Indonesia
+2855,United States
+2856,United States
+2857,Pakistan
+2858,United States
+2859,United States
+2860,Russian Federation
+2861,United States
+2862,Switzerland
+2863,France
+2864,Greece
+2865,United States
+2866,Sweden
+2867,Unknown
+2868,Italy
+2869,Republic of
+2870,Italy
+2871,Germany
+2872,United States
+2873,Austria
+2874,France
+2875,Unknown
+2876,Tunisia
+2877,United Kingdom
+2878,France
+2879,United States
+2880,Russian Federation
+2881,Australia
+2882,Spain
+2883,France
+2884,France
+2885,Spain
+2886,Italy
+2887,France
+2888,United States
+2889,United States
+2890,Unknown
+2891,China
+2892,Unknown
+2893,United States
+2894,Colombia
+2895,United Kingdom
+2896,Germany
+2897,Canada
+2898,Egypt
+2899,Guinea-Bissau
+2900,France
+2901,Unknown
+2902,Spain
+2903,France
+2904,United States
+2905,Canada
+2906,Qatar
+2907,Bangladesh
+2908,United States
+2909,Austria
+2910,Unknown
+2911,Guinea
+2912,United States
+2913,France
+2914,United States
+2915,Canada
+2916,Saudi Arabia
+2917,United States
+2918,France
+2919,United States
+2920,Egypt
+2921,Spain
+2922,France
+2923,United States
+2924,United States
+2925,Denmark
+2926,France
+2927,United States
+2928,United States
+2929,United States
+2930,United States
+2931,France
+2932,United States
+2933,United States
+2934,Malaysia
+2935,China
+2936,United States
+2937,Unknown
+2938,Unknown
+2939,United States
+2940,Unknown
+2941,United States
+2942,Canada
+2943,Sweden
+2944,Switzerland
+2945,United States
+2946,Unknown
+2947,United States
+2948,Unknown
+2949,France
+2950,France
+2951,France
+2952,Germany
+2953,Unknown
+2954,Germany
+2955,United Kingdom
+2956,Sweden
+2957,Unknown
+2958,Greece
+2959,France
+2960,France
+2961,China
+2962,France
+2963,Spain
+2964,United States
+2965,Argentina
+2966,United Kingdom
+2967,Egypt
+2968,Canada
+2969,France
+2970,United States
+2971,Germany
+2972,Egypt
+2973,Unknown
+2974,Pakistan
+2975,Pakistan
+2976,India
+2977,Unknown
+2978,United States
+2979,Israel
+2980,Italy
+2981,United States
+2982,Honduras
+2983,Austria
+2984,Turkey
+2985,France
+2986,United States
+2987,United States
+2988,France
+2989,United States
+2990,United States
+2991,Russian Federation
+2992,United States
+2993,United Kingdom
+2994,Colombia
+2995,France
+2996,Indonesia
+2997,United States
+2998,Unknown
+2999,France
+3000,Brazil
+3001,Brazil
+3002,Brazil
+3003,United States
+3004,Brazil
+3005,Egypt
+3006,Italy
+3007,Egypt
+3008,Unknown
+3009,Canada
+3010,Egypt
+3011,Spain
+3012,United States
+3013,United States
+3014,United States
+3015,Brazil
+3016,Unknown
+3017,United States
+3018,Israel
+3019,Indonesia
+3020,Russian Federation
+3021,Germany
+3022,United States
+3023,Canada
+3024,Taiwan
+3025,United States
+3026,Canada
+3027,United States
+3028,France
+3029,United States
+3030,Russian Federation
+3031,Turkey
+3032,Sweden
+3033,South Africa
+3034,China
+3035,Canada
+3036,United States
+3037,Croatia
+3038,United States
+3039,Turkey
+3040,United States
+3041,Egypt
+3042,Kuwait
+3043,Unknown
+3044,United States
+3045,France
+3046,Austria
+3047,Italy
+3048,Netherlands
+3049,France
+3050,Poland
+3051,Italy
+3052,Israel
+3053,Unknown
+3054,Turkey
+3055,United Kingdom
+3056,United States
+3057,United Kingdom
+3058,Netherlands
+3059,United States
+3060,Canada
+3061,United Kingdom
+3062,Austria
+3063,Unknown
+3064,United Kingdom
+3065,United States
+3066,United States
+3067,United States
+3068,Peru
+3069,Mexico
+3070,United States
+3071,Unknown
+3072,United States
+3073,Unknown
+3074,Egypt
+3075,China
+3076,United States
+3077,Peru
+3078,United States
+3079,United States
+3080,Italy
+3081,Denmark
+3082,Mexico
+3083,Egypt
+3084,Saudi Arabia
+3085,France
+3086,United States
+3087,Mexico
+3088,France
+3089,France
+3090,Mexico
+3091,United States
+3092,Switzerland
+3093,United States
+3094,France
+3095,United States
+3096,France
+3097,United States
+3098,United States
+3099,United States
+3100,United States
+3101,United States
+3102,United States
+3103,Indonesia
+3104,Austria
+3105,Unknown
+3106,Unknown
+3107,Spain
+3108,France
+3109,United States
+3110,France
+3111,Unknown
+3112,United States
+3113,United States
+3114,Brazil
+3115,Denmark
+3116,United States
+3117,Netherlands
+3118,France
+3119,United States
+3120,United States
+3121,Qatar
+3122,Russian Federation
+3123,Belgium
+3124,Egypt
+3125,France
+3126,France
+3127,Hong Kong
+3128,Spain
+3129,Poland
+3130,United States
+3131,Kuwait
+3132,Germany
+3133,United States
+3134,Italy
+3135,Unknown
+3136,France
+3137,Unknown
+3138,Egypt
+3139,France
+3140,France
+3141,Italy
+3142,Norway
+3143,United States
+3144,Republic of
+3145,Canada
+3146,United States
+3147,Belgium
+3148,India
+3149,Denmark
+3150,France
+3151,United States
+3152,Israel
+3153,Mexico
+3154,Japan
+3155,Russian Federation
+3156,Saudi Arabia
+3157,Mexico
+3158,Brazil
+3159,Malaysia
+3160,United States
+3161,Austria
+3162,United States
+3163,Unknown
+3164,Mexico
+3165,United States
+3166,Egypt
+3167,United States
+3168,France
+3169,Russian Federation
+3170,United States
+3171,Brazil
+3172,Puerto Rico
+3173,Unknown
+3174,Spain
+3175,United States
+3176,United States
+3177,France
+3178,France
+3179,Brazil
+3180,Spain
+3181,France
+3182,Switzerland
+3183,Egypt
+3184,United Kingdom
+3185,Brazil
+3186,United States
+3187,United Kingdom
+3188,Lebanon
+3189,Saudi Arabia
+3190,Germany
+3191,Belgium
+3192,United States
+3193,Germany
+3194,United Kingdom
+3195,France
+3196,Unknown
+3197,Norway
+3198,United States
+3199,Argentina
+3200,Italy
+3201,United States
+3202,Unknown
+3203,Unknown
+3204,Denmark
+3205,United States
+3206,Hong Kong
+3207,Egypt
+3208,China
+3209,United States
+3210,France
+3211,United States
+3212,United States
+3213,Martinique
+3214,China
+3215,France
+3216,Egypt
+3217,China
+3218,Unknown
+3219,Norway
+3220,Belgium
+3221,United States
+3222,Unknown
+3223,Austria
+3224,Germany
+3225,Germany
+3226,Belgium
+3227,United States
+3228,United States
+3229,Australia
+3230,Unknown
+3231,United States
+3232,Unknown
+3233,United States
+3234,France
+3235,United States
+3236,United Kingdom
+3237,China
+3238,France
+3239,Germany
+3240,United States
+3241,Kuwait
+3242,France
+3243,Brazil
+3244,Brazil
+3245,Germany
+3246,United States
+3247,Republic of
+3248,Canada
+3249,United States
+3250,Unknown
+3251,United States
+3252,Unknown
+3253,Hong Kong
+3254,The Democratic Republic of the
+3255,Sweden
+3256,Argentina
+3257,Spain
+3258,Egypt
+3259,Jamaica
+3260,Germany
+3261,United States
+3262,Denmark
+3263,Turkey
+3264,United States
+3265,United Kingdom
+3266,United States
+3267,United States
+3268,Spain
+3269,United States
+3270,Israel
+3271,France
+3272,United States
+3273,France
+3274,Unknown
+3275,United States
+3276,Brazil
+3277,United States
+3278,India
+3279,Italy
+3280,United States
+3281,Slovenia
+3282,United States
+3283,Brazil
+3284,United States
+3285,United States
+3286,Russian Federation
+3287,Unknown
+3288,Unknown
+3289,Unknown
+3290,France
+3291,Unknown
+3292,Canada
+3293,United States
+3294,Bangladesh
+3295,United States
+3296,United Kingdom
+3297,Egypt
+3298,Germany
+3299,United Kingdom
+3300,Italy
+3301,Qatar
+3302,United States
+3303,Brazil
+3304,France
+3305,Italy
+3306,United States
+3307,Israel
+3308,Austria
+3309,Republic of
+3310,Unknown
+3311,United Kingdom
+3312,United States
+3313,Belgium
+3314,Brazil
+3315,Brazil
+3316,Romania
+3317,Germany
+3318,United Arab Emirates
+3319,France
+3320,United States
+3321,Russian Federation
+3322,Indonesia
+3323,Germany
+3324,Germany
+3325,Argentina
+3326,France
+3327,United States
+3328,Denmark
+3329,Italy
+3330,United States
+3331,United States
+3332,Canada
+3333,Unknown
+3334,Germany
+3335,Republic of
+3336,Brazil
+3337,Unknown
+3338,France
+3339,France
+3340,Israel
+3341,Unknown
+3342,Unknown
+3343,Nigeria
+3344,Republic of
+3345,France
+3346,Italy
+3347,Egypt
+3348,Italy
+3349,Spain
+3350,Germany
+3351,Switzerland
+3352,United States
+3353,France
+3354,Mexico
+3355,Turkey
+3356,Russian Federation
+3357,United States
+3358,France
+3359,United States
+3360,Unknown
+3361,France
+3362,Spain
+3363,United States
+3364,Unknown
+3365,France
+3366,Republic of
+3367,Egypt
+3368,Unknown
+3369,Belgium
+3370,Mexico
+3371,Switzerland
+3372,Canada
+3373,United States
+3374,France
+3375,United States
+3376,Turkey
+3377,United States
+3378,United States
+3379,China
+3380,Australia
+3381,Canada
+3382,Unknown
+3383,United States
+3384,France
+3385,United Kingdom
+3386,France
+3387,United States
+3388,China
+3389,Mexico
+3390,Unknown
+3391,United States
+3392,Sweden
+3393,Unknown
+3394,United States
+3395,Israel
+3396,Unknown
+3397,United States
+3398,Denmark
+3399,United States
+3400,China
+3401,Mexico
+3402,France
+3403,Italy
+3404,Israel
+3405,Israel
+3406,Israel
+3407,Italy
+3408,Republic of
+3409,United States
+3410,United States
+3411,Pakistan
+3412,France
+3413,United States
+3414,United States
+3415,France
+3416,Egypt
+3417,United States
+3418,Spain
+3419,Netherlands
+3420,Colombia
+3421,The Democratic Republic of the
+3422,Belgium
+3423,Unknown
+3424,France
+3425,Germany
+3426,Indonesia
+3427,Israel
+3428,United States
+3429,Unknown
+3430,Chile
+3431,Republic of
+3432,Mexico
+3433,United States
+3434,Greece
+3435,Italy
+3436,Russian Federation
+3437,Unknown
+3438,Brazil
+3439,United States
+3440,France
+3441,United States
+3442,Italy
+3443,Italy
+3444,France
+3445,United States
+3446,Unknown
+3447,Unknown
+3448,United Kingdom
+3449,Brazil
+3450,United States
+3451,United States
+3452,Egypt
+3453,United States
+3454,France
+3455,United Kingdom
+3456,United States
+3457,Denmark
+3458,Indonesia
+3459,China
+3460,United States
+3461,Bangladesh
+3462,Argentina
+3463,France
+3464,Spain
+3465,United Kingdom
+3466,Unknown
+3467,Colombia
+3468,United States
+3469,China
+3470,France
+3471,Turkey
+3472,United States
+3473,United States
+3474,United States
+3475,France
+3476,China
+3477,France
+3478,United States
+3479,United States
+3480,Canada
+3481,China
+3482,United States
+3483,Spain
+3484,Greece
+3485,United States
+3486,China
+3487,France
+3488,United States
+3489,United States
+3490,United Kingdom
+3491,Egypt
+3492,Egypt
+3493,France
+3494,United Kingdom
+3495,Brazil
+3496,Egypt
+3497,France
+3498,Turkey
+3499,Denmark
+3500,Republic of
+3501,United Kingdom
+3502,Greece
+3503,Mexico
+3504,Unknown
+3505,Turkey
+3506,Monaco
+3507,Greece
+3508,United States
+3509,United Kingdom
+3510,United States
+3511,United States
+3512,United Kingdom
+3513,Italy
+3514,United States
+3515,United States
+3516,Unknown
+3517,Unknown
+3518,Taiwan
+3519,Spain
+3520,Unknown
+3521,Denmark
+3522,Unknown
+3523,France
+3524,Belgium
+3525,United States
+3526,Spain
+3527,Brazil
+3528,Unknown
+3529,United States
+3530,Italy
+3531,Hungary
+3532,Chile
+3533,France
+3534,Israel
+3535,Tunisia
+3536,United States
+3537,United States
+3538,Brazil
+3539,Brazil
+3540,Turkey
+3541,France
+3542,United States
+3543,United States
+3544,Unknown
+3545,United States
+3546,Turkey
+3547,Italy
+3548,United States
+3549,Ukraine
+3550,Turkey
+3551,United States
+3552,United States
+3553,United States
+3554,United States
+3555,Republic of
+3556,Turkey
+3557,United States
+3558,Romania
+3559,France
+3560,Unknown
+3561,Islamic Republic of
+3562,China
+3563,Islamic Republic of
+3564,United States
+3565,United States
+3566,Unknown
+3567,Sweden
+3568,France
+3569,Unknown
+3570,United States
+3571,Unknown
+3572,United States
+3573,France
+3574,Unknown
+3575,France
+3576,Spain
+3577,Israel
+3578,United States
+3579,Indonesia
+3580,Unknown
+3581,United States
+3582,France
+3583,Bangladesh
+3584,Turkey
+3585,Brazil
+3586,United States
+3587,Israel
+3588,United Kingdom
+3589,Kazakhstan
+3590,Germany
+3591,Belgium
+3592,France
+3593,Belgium
+3594,Italy
+3595,United States
+3596,United States
+3597,United States
+3598,China
+3599,Pakistan
+3600,Italy
+3601,Turkey
+3602,Denmark
+3603,Australia
+3604,Kenya
+3605,United States
+3606,Italy
+3607,Unknown
+3608,Unknown
+3609,United States
+3610,United States
+3611,France
+3612,Peru
+3613,Italy
+3614,Unknown
+3615,Mexico
+3616,Pakistan
+3617,Hong Kong
+3618,Austria
+3619,Hungary
+3620,United States
+3621,Ireland
+3622,Israel
+3623,Spain
+3624,Unknown
+3625,Unknown
+3626,Egypt
+3627,France
+3628,Czechia
+3629,Argentina
+3630,Denmark
+3631,France
+3632,United States
+3633,Unknown
+3634,Denmark
+3635,United States
+3636,United States
+3637,United States
+3638,United States
+3639,India
+3640,Turkey
+3641,France
+3642,Turkey
+3643,United Kingdom
+3644,Argentina
+3645,United States
+3646,Unknown
+3647,Japan
+3648,Islamic Republic of
+3649,United Kingdom
+3650,United States
+3651,France
+3652,China
+3653,Brazil
+3654,Argentina
+3655,Romania
+3656,Germany
+3657,Unknown
+3658,Italy
+3659,United States
+3660,United States
+3661,United States
+3662,United States
+3663,Iraq
+3664,United States
+3665,Netherlands
+3666,United States
+3667,Islamic Republic of
+3668,Switzerland
+3669,United States
+3670,China
+3671,United States
+3672,Belarus
+3673,Netherlands
+3674,France
+3675,Spain
+3676,Spain
+3677,China
+3678,United States
+3679,Mexico
+3680,Russian Federation
+3681,Brazil
+3682,Unknown
+3683,United States
+3684,Islamic Republic of
+3685,Germany
+3686,Norway
+3687,Switzerland
+3688,France
+3689,Chile
+3690,Austria
+3691,France
+3692,Unknown
+3693,France
+3694,China
+3695,United Kingdom
+3696,United States
+3697,Brazil
+3698,Belgium
+3699,Norway
+3700,Turkey
+3701,Czechia
+3702,Turkey
+3703,Italy
+3704,Chile
+3705,United States
+3706,Unknown
+3707,Denmark
+3708,Unknown
+3709,South Africa
+3710,Unknown
+3711,United States
+3712,United States
+3713,Unknown
+3714,India
+3715,India
+3716,Unknown
+3717,Greece
+3718,Spain
+3719,Indonesia
+3720,Belgium
+3721,France
+3722,United States
+3723,Australia
+3724,Egypt
+3725,United Kingdom
+3726,United States
+3727,United States
+3728,United States
+3729,Turkey
+3730,United States
+3731,United States
+3732,United States
+3733,France
+3734,Brazil
+3735,Unknown
+3736,France
+3737,Islamic Republic of
+3738,Egypt
+3739,United Kingdom
+3740,France
+3741,China
+3742,Denmark
+3743,United States
+3744,France
+3745,Hungary
+3746,Unknown
+3747,Switzerland
+3748,Unknown
+3749,United States
+3750,United States
+3751,Brazil
+3752,United States
+3753,Sweden
+3754,United States
+3755,Unknown
+3756,United States
+3757,Spain
+3758,United States
+3759,United States
+3760,Belgium
+3761,Unknown
+3762,United States
+3763,Mexico
+3764,Denmark
+3765,Canada
+3766,Austria
+3767,Germany
+3768,France
+3769,France
+3770,Sweden
+3771,France
+3772,France
+3773,France
+3774,Italy
+3775,Italy
+3776,Spain
+3777,France
+3778,United States
+3779,Turkey
+3780,United States
+3781,Jordan
+3782,Denmark
+3783,United States
+3784,Kuwait
+3785,Mexico
+3786,Turkey
+3787,Egypt
+3788,Italy
+3789,France
+3790,Canada
+3791,France
+3792,Spain
+3793,France
+3794,United States
+3795,China
+3796,Denmark
+3797,Unknown
+3798,United States
+3799,Czechia
+3800,Turkey
+3801,Pakistan
+3802,France
+3803,United States
+3804,France
+3805,United States
+3806,United Kingdom
+3807,United States
+3808,Germany
+3809,France
+3810,Japan
+3811,Unknown
+3812,Turkey
+3813,China
+3814,France
+3815,United States
+3816,Italy
+3817,China
+3818,Germany
+3819,Germany
+3820,France
+3821,United States
+3822,Unknown
+3823,France
+3824,Egypt
+3825,Italy
+3826,United States
+3827,Japan
+3828,France
+3829,France
+3830,Mexico
+3831,United States
+3832,United States
+3833,Turkey
+3834,Russian Federation
+3835,United States
+3836,Brazil
+3837,United States
+3838,Israel
+3839,Pakistan
+3840,Peru
+3841,Italy
+3842,United States
+3843,Belgium
+3844,Argentina
+3845,United States
+3846,Argentina
+3847,United States
+3848,Unknown
+3849,United States
+3850,Turkey
+3851,United States
+3852,Nepal
+3853,Israel
+3854,Unknown
+3855,Egypt
+3856,Unknown
+3857,United States
+3858,Czechia
+3859,Germany
+3860,France
+3861,France
+3862,Mexico
+3863,Sweden
+3864,Canada
+3865,Unknown
+3866,Italy
+3867,Canada
+3868,Netherlands
+3869,Spain
+3870,Unknown
+3871,United States
+3872,France
+3873,Norway
+3874,Australia
+3875,France
+3876,United States
+3877,United States
+3878,Israel
+3879,Unknown
+3880,United States
+3881,Switzerland
+3882,United States
+3883,Belgium
+3884,United States
+3885,Albania
+3886,Unknown
+3887,Spain
+3888,United States
+3889,Brazil
+3890,United States
+3891,United States
+3892,France
+3893,Canada
+3894,Brazil
+3895,United Kingdom
+3896,United States
+3897,Monaco
+3898,Italy
+3899,Turkey
+3900,Turkey
+3901,Brazil
+3902,Bangladesh
+3903,Unknown
+3904,China
+3905,Brazil
+3906,Unknown
+3907,United States
+3908,France
+3909,Canada
+3910,United States
+3911,France
+3912,Unknown
+3913,Spain
+3914,Sweden
+3915,France
+3916,Saudi Arabia
+3917,Italy
+3918,Italy
+3919,Spain
+3920,Brazil
+3921,Unknown
+3922,Singapore
+3923,Turkey
+3924,United States
+3925,Spain
+3926,Spain
+3927,United Kingdom
+3928,Turkey
+3929,United States
+3930,United States
+3931,Turkey
+3932,Pakistan
+3933,United States
+3934,China
+3935,Germany
+3936,Switzerland
+3937,Canada
+3938,Sweden
+3939,Spain
+3940,Belgium
+3941,Rwanda
+3942,United States
+3943,China
+3944,France
+3945,France
+3946,Unknown
+3947,Unknown
+3948,Sweden
+3949,Egypt
+3950,France
+3951,Denmark
+3952,France
+3953,United States
+3954,Egypt
+3955,Taiwan
+3956,United States
+3957,Pakistan
+3958,Turkey
+3959,Unknown
+3960,Turkey
+3961,Turkey
+3962,Turkey
+3963,United States
+3964,United States
+3965,France
+3966,Panama
+3967,United Kingdom
+3968,France
+3969,Turkey
+3970,Mexico
+3971,United States
+3972,Denmark
+3973,France
+3974,Belgium
+3975,Jordan
+3976,Denmark
+3977,United States
+3978,United States
+3979,France
+3980,Colombia
+3981,France
+3982,Spain
+3983,United States
+3984,United States
+3985,Italy
+3986,United States
+3987,China
+3988,Italy
+3989,Bulgaria
+3990,Argentina
+3991,France
+3992,Unknown
+3993,United Kingdom
+3994,Bangladesh
+3995,United States
+3996,Belgium
+3997,United States
+3998,Egypt
+3999,France
+4000,Republic of
+4001,Republic of
+4002,Argentina
+4003,United States
+4004,Belgium
+4005,France
+4006,Spain
+4007,Unknown
+4008,United Kingdom
+4009,France
+4010,China
+4011,United Kingdom
+4012,Netherlands
+4013,Russian Federation
+4014,United States
+4015,Malaysia
+4016,France
+4017,Mexico
+4018,United Kingdom
+4019,Brazil
+4020,United States
+4021,Russian Federation
+4022,Unknown
+4023,Canada
+4024,United States
+4025,Belgium
+4026,United States
+4027,United Kingdom
+4028,France
+4029,United States
+4030,Unknown
+4031,United States
+4032,United States
+4033,Germany
+4034,Unknown
+4035,Unknown
+4036,Italy
+4037,United States
+4038,Unknown
+4039,United States
+4040,France
+4041,France
+4042,United States
+4043,China
+4044,Egypt
+4045,Egypt
+4046,Italy
+4047,Tunisia
+4048,United States
+4049,Italy
+4050,Unknown
+4051,United States
+4052,France
+4053,United States
+4054,Switzerland
+4055,Cambodia
+4056,France
+4057,Republic of
+4058,Turkey
+4059,United States
+4060,United States
+4061,Austria
+4062,Brazil
+4063,Brazil
+4064,United States
+4065,France
+4066,United States
+4067,Egypt
+4068,Greece
+4069,Spain
+4070,Switzerland
+4071,Egypt
+4072,United Kingdom
+4073,Switzerland
+4074,Unknown
+4075,United States
+4076,Switzerland
+4077,Qatar
+4078,France
+4079,Colombia
+4080,Saudi Arabia
+4081,Belgium
+4082,India
+4083,Brazil
+4084,Egypt
+4085,France
+4086,Norway
+4087,Mexico
+4088,Germany
+4089,Indonesia
+4090,United States
+4091,Unknown
+4092,Italy
+4093,France
+4094,India
+4095,Brazil
+4096,United States
+4097,Netherlands
+4098,United Kingdom
+4099,Turkey
+4100,Egypt
+4101,France
+4102,France
+4103,Turkey
+4104,Egypt
+4105,Canada
+4106,United States
+4107,United States
+4108,United States
+4109,Germany
+4110,United States
+4111,Austria
+4112,Brazil
+4113,France
+4114,Germany
+4115,Germany
+4116,United States
+4117,Turkey
+4118,China
+4119,Unknown
+4120,China
+4121,Norway
+4122,Turkey
+4123,Greece
+4124,United States
+4125,Austria
+4126,France
+4127,Italy
+4128,Brazil
+4129,Brazil
+4130,China
+4131,Unknown
+4132,Unknown
+4133,Mexico
+4134,Unknown
+4135,Unknown
+4136,Germany
+4137,Italy
+4138,Sweden
+4139,Spain
+4140,United States
+4141,United States
+4142,United States
+4143,United States
+4144,Canada
+4145,China
+4146,Canada
+4147,Unknown
+4148,Ireland
+4149,United States
+4150,Spain
+4151,Unknown
+4152,Chile
+4153,France
+4154,Hong Kong
+4155,Saudi Arabia
+4156,Belgium
+4157,Turkey
+4158,France
+4159,France
+4160,Canada
+4161,Islamic Republic of
+4162,France
+4163,United States
+4164,France
+4165,France
+4166,Unknown
+4167,Russian Federation
+4168,France
+4169,Mexico
+4170,United States
+4171,Chile
+4172,Turkey
+4173,Turkey
+4174,United Kingdom
+4175,Unknown
+4176,France
+4177,United States
+4178,France
+4179,United States
+4180,Spain
+4181,United States
+4182,Unknown
+4183,United Arab Emirates
+4184,Unknown
+4185,United States
+4186,France
+4187,Brazil
+4188,Unknown
+4189,United States
+4190,United States
+4191,United States
+4192,United States
+4193,United Kingdom
+4194,United States
+4195,France
+4196,Spain
+4197,Germany
+4198,United States
+4199,Turkey
+4200,Egypt
+4201,United States
+4202,United States
+4203,France
+4204,France
+4205,Unknown
+4206,Russian Federation
+4207,Turkey
+4208,France
+4209,France
+4210,Italy
+4211,Germany
+4212,United States
+4213,India
+4214,Singapore
+4215,China
+4216,Canada
+4217,Turkey
+4218,Spain
+4219,United States
+4220,Canada
+4221,Germany
+4222,Unknown
+4223,United States
+4224,Brazil
+4225,Egypt
+4226,India
+4227,Spain
+4228,Italy
+4229,France
+4230,Unknown
+4231,Switzerland
+4232,United States
+4233,France
+4234,United States
+4235,United States
+4236,Turkey
+4237,Islamic Republic of
+4238,Unknown
+4239,United States
+4240,Austria
+4241,United States
+4242,Switzerland
+4243,Unknown
+4244,United States
+4245,Hong Kong
+4246,France
+4247,United States
+4248,China
+4249,France
+4250,France
+4251,Canada
+4252,China
+4253,United States
+4254,Unknown
+4255,Taiwan
+4256,Ireland
+4257,Tunisia
+4258,Jordan
+4259,China
+4260,Mexico
+4261,France
+4262,France
+4263,United States
+4264,Brazil
+4265,Turkey
+4266,Spain
+4267,France
+4268,France
+4269,Russian Federation
+4270,Denmark
+4271,Mexico
+4272,China
+4273,United States
+4274,United States
+4275,United Kingdom
+4276,United States
+4277,Germany
+4278,Germany
+4279,United States
+4280,Canada
+4281,United States
+4282,Israel
+4283,China
+4284,France
+4285,Spain
+4286,South Africa
+4287,United States
+4288,United Kingdom
+4289,Greece
+4290,Germany
+4291,Germany
+4292,United States
+4293,United States
+4294,France
+4295,Egypt
+4296,France
+4297,United States
+4298,France
+4299,China
+4300,United States
+4301,Spain
+4302,Brazil
+4303,Australia
+4304,Unknown
+4305,United States
+4306,United States
+4307,Bolivia
+4308,United Kingdom
+4309,Unknown
+4310,France
+4311,United Kingdom
+4312,United States
+4313,Unknown
+4314,United States
+4315,China
+4316,United Kingdom
+4317,Turkey
+4318,Turkey
+4319,Switzerland
+4320,United States
+4321,Sweden
+4322,Turkey
+4323,Poland
+4324,Unknown
+4325,France
+4326,Brazil
+4327,Unknown
+4328,United States
+4329,Spain
+4330,United States
+4331,United States
+4332,Italy
+4333,United States
+4334,Indonesia
+4335,United States
+4336,Hong Kong
+4337,Taiwan
+4338,France
+4339,Republic of
+4340,United Kingdom
+4341,United States
+4342,United States
+4343,Netherlands
+4344,Germany
+4345,Egypt
+4346,Spain
+4347,United States
+4348,Unknown
+4349,United States
+4350,France
+4351,Colombia
+4352,Spain
+4353,United States
+4354,France
+4355,Unknown
+4356,Turkey
+4357,Romania
+4358,United States
+4359,Pakistan
+4360,Brazil
+4361,United States
+4362,Unknown
+4363,United States
+4364,Unknown
+4365,United States
+4366,Unknown
+4367,Mexico
+4368,United States
+4369,Italy
+4370,Lesotho
+4371,China
+4372,Argentina
+4373,Unknown
+4374,Brazil
+4375,Mexico
+4376,China
+4377,Sweden
+4378,United States
+4379,United States
+4380,Singapore
+4381,China
+4382,Singapore
+4383,Singapore
+4384,China
+4385,Turkey
+4386,China
+4387,France
+4388,Spain
+4389,United States
+4390,Hong Kong
+4391,China
+4392,United States
+4393,United Kingdom
+4394,France
+4395,United States
+4396,Turkey
+4397,United States
+4398,Norway
+4399,Norway
+4400,United States
+4401,France
+4402,France
+4403,United States
+4404,Argentina
+4405,United States
+4406,France
+4407,Canada
+4408,United States
+4409,United Kingdom
+4410,China
+4411,Spain
+4412,Republic of
+4413,Canada
+4414,Spain
+4415,Canada
+4416,United States
+4417,United States
+4418,Italy
+4419,Switzerland
+4420,Turkey
+4421,United States
+4422,United Kingdom
+4423,United States
+4424,China
+4425,Egypt
+4426,Hong Kong
+4427,Unknown
+4428,Qatar
+4429,Brazil
+4430,Unknown
+4431,Vietnam
+4432,United States
+4433,Canada
+4434,Poland
+4435,Canada
+4436,Brazil
+4437,Unknown
+4438,Norway
+4439,Italy
+4440,France
+4441,France
+4442,United States
+4443,China
+4444,United States
+4445,Canada
+4446,Unknown
+4447,France
+4448,United States
+4449,United States
+4450,United States
+4451,Poland
+4452,Italy
+4453,Brazil
+4454,United States
+4455,United States
+4456,China
+4457,United States
+4458,Unknown
+4459,Brazil
+4460,United States
+4461,Germany
+4462,Unknown
+4463,Pakistan
+4464,Turkey
+4465,Poland
+4466,United States
+4467,France
+4468,France
+4469,Germany
+4470,United States
+4471,Spain
+4472,Canada
+4473,United States
+4474,United Kingdom
+4475,Belgium
+4476,United States
+4477,United States
+4478,Unknown
+4479,Brazil
+4480,Spain
+4481,Mexico
+4482,United States
+4483,United States
+4484,Germany
+4485,Unknown
+4486,United States
+4487,Australia
+4488,Russian Federation
+4489,United States
+4490,Unknown
+4491,United States
+4492,France
+4493,Germany
+4494,Unknown
+4495,France
+4496,United Kingdom
+4497,Bulgaria
+4498,China
+4499,Brazil
+4500,Egypt
+4501,Russian Federation
+4502,France
+4503,Italy
+4504,Unknown
+4505,United States
+4506,United States
+4507,Taiwan
+4508,Unknown
+4509,Switzerland
+4510,Australia
+4511,Unknown
+4512,France
+4513,France
+4514,United States
+4515,Unknown
+4516,United States
+4517,France
+4518,Italy
+4519,United States
+4520,Sweden
+4521,Unknown
+4522,France
+4523,United States
+4524,France
+4525,France
+4526,United States
+4527,Spain
+4528,Argentina
+4529,Unknown
+4530,United Kingdom
+4531,Turkey
+4532,Switzerland
+4533,France
+4534,Turkey
+4535,France
+4536,Belgium
+4537,United Kingdom
+4538,France
+4539,Pakistan
+4540,United States
+4541,United States
+4542,China
+4543,Mexico
+4544,Unknown
+4545,China
+4546,Canada
+4547,France
+4548,Italy
+4549,United States
+4550,Australia
+4551,Brazil
+4552,United States
+4553,Egypt
+4554,Brazil
+4555,France
+4556,United Kingdom
+4557,United States
+4558,United States
+4559,Spain
+4560,Japan
+4561,France
+4562,Turkey
+4563,Australia
+4564,Turkey
+4565,Ukraine
+4566,Unknown
+4567,France
+4568,United States
+4569,China
+4570,United Kingdom
+4571,France
+4572,Germany
+4573,United States
+4574,France
+4575,Germany
+4576,United States
+4577,Belgium
+4578,United Kingdom
+4579,United Kingdom
+4580,United States
+4581,Paraguay
+4582,France
+4583,United States
+4584,India
+4585,United States
+4586,Spain
+4587,United Kingdom
+4588,Switzerland
+4589,Canada
+4590,Unknown
+4591,Unknown
+4592,United States
+4593,United States
+4594,United States
+4595,Saudi Arabia
+4596,Turkey
+4597,Hungary
+4598,France
+4599,Germany
+4600,Thailand
+4601,Hong Kong
+4602,Italy
+4603,France
+4604,United States
+4605,Islamic Republic of
+4606,France
+4607,United States
+4608,United States
+4609,Unknown
+4610,Switzerland
+4611,Unknown
+4612,United States
+4613,China
+4614,France
+4615,France
+4616,Norway
+4617,Poland
+4618,Belgium
+4619,France
+4620,Mexico
+4621,Canada
+4622,China
+4623,Canada
+4624,Unknown
+4625,United States
+4626,United Kingdom
+4627,United States
+4628,France
+4629,Norway
+4630,United States
+4631,Unknown
+4632,Turkey
+4633,Unknown
+4634,United States
+4635,Norway
+4636,Sweden
+4637,Turkey
+4638,Unknown
+4639,United States
+4640,Thailand
+4641,United States
+4642,Pakistan
+4643,Pakistan
+4644,Chile
+4645,Turkey
+4646,Italy
+4647,United States
+4648,France
+4649,United States
+4650,Unknown
+4651,United States
+4652,United States
+4653,United States
+4654,Italy
+4655,Belgium
+4656,Spain
+4657,Turkey
+4658,United States
+4659,Taiwan
+4660,United States
+4661,Unknown
+4662,Canada
+4663,United Kingdom
+4664,Unknown
+4665,United States
+4666,Canada
+4667,Turkey
+4668,Canada
+4669,Hong Kong
+4670,Canada
+4671,Canada
+4672,Belgium
+4673,United States
+4674,Brazil
+4675,Italy
+4676,Greece
+4677,Argentina
+4678,United Kingdom
+4679,Switzerland
+4680,France
+4681,United States
+4682,Israel
+4683,Netherlands
+4684,Kazakhstan
+4685,Portugal
+4686,France
+4687,Turkey
+4688,Unknown
+4689,Jordan
+4690,France
+4691,United Kingdom
+4692,Hungary
+4693,India
+4694,France
+4695,France
+4696,Poland
+4697,Unknown
+4698,United States
+4699,Turkey
+4700,United Arab Emirates
+4701,United Kingdom
+4702,United States
+4703,United States
+4704,Turkey
+4705,Canada
+4706,United States
+4707,United States
+4708,France
+4709,United States
+4710,United States
+4711,Turkey
+4712,Unknown
+4713,Unknown
+4714,Unknown
+4715,Egypt
+4716,Ecuador
+4717,Brazil
+4718,United States
+4719,Turkey
+4720,Pakistan
+4721,France
+4722,Unknown
+4723,Unknown
+4724,Republic of
+4725,Germany
+4726,Sweden
+4727,Canada
+4728,France
+4729,United States
+4730,Unknown
+4731,United States
+4732,French Guiana
+4733,Spain
+4734,Unknown
+4735,Brazil
+4736,United States
+4737,Brazil
+4738,France
+4739,United Kingdom
+4740,United States
+4741,United States
+4742,United States
+4743,Australia
+4744,France
+4745,Turkey
+4746,Canada
+4747,United States
+4748,Spain
+4749,Chile
+4750,Unknown
+4751,Singapore
+4752,Switzerland
+4753,Turkey
+4754,France
+4755,United States
+4756,Belgium
+4757,Unknown
+4758,China
+4759,Brazil
+4760,United States
+4761,Turkey
+4762,United Kingdom
+4763,China
+4764,Italy
+4765,United States
+4766,United Kingdom
+4767,Canada
+4768,United States
+4769,Unknown
+4770,Canada
+4771,United States
+4772,Germany
+4773,Unknown
+4774,Pakistan
+4775,China
+4776,Spain
+4777,China
+4778,Unknown
+4779,Canada
+4780,China
+4781,Russian Federation
+4782,United States
+4783,China
+4784,Argentina
+4785,France
+4786,China
+4787,Spain
+4788,China
+4789,France
+4790,France
+4791,China
+4792,Unknown
+4793,Austria
+4794,Turkey
+4795,Unknown
+4796,United States
+4797,Turkey
+4798,Unknown
+4799,France
+4800,France
+4801,Canada
+4802,Unknown
+4803,Unknown
+4804,China
+4805,United States
+4806,United Kingdom
+4807,India
+4808,Unknown
+4809,Brazil
+4810,China
+4811,Unknown
+4812,United States
+4813,China
+4814,Italy
+4815,Spain
+4816,Egypt
+4817,France
+4818,Germany
+4819,Unknown
+4820,United States
+4821,Israel
+4822,United States
+4823,Mexico
+4824,Unknown
+4825,United Kingdom
+4826,United States
+4827,United States
+4828,France
+4829,Lebanon
+4830,Australia
+4831,United States
+4832,Unknown
+4833,Brazil
+4834,United Kingdom
+4835,Unknown
+4836,Canada
+4837,United States
+4838,Malaysia
+4839,United States
+4840,Hong Kong
+4841,Belgium
+4842,France
+4843,Unknown
+4844,United States
+4845,France
+4846,Switzerland
+4847,Canada
+4848,Unknown
+4849,France
+4850,Unknown
+4851,Australia
+4852,Sweden
+4853,Unknown
+4854,Sweden
+4855,United States
+4856,France
+4857,Brazil
+4858,United Kingdom
+4859,Unknown
+4860,Unknown
+4861,United Kingdom
+4862,Unknown
+4863,United States
+4864,Canada
+4865,Unknown
+4866,Unknown
+4867,France
+4868,United Kingdom
+4869,Canada
+4870,India
+4871,France
+4872,South Africa
+4873,Brazil
+4874,Mexico
+4875,United Kingdom
+4876,Austria
+4877,United States
+4878,Turkey
+4879,Belgium
+4880,United States
+4881,Brazil
+4882,China
+4883,Mexico
+4884,Unknown
+4885,United States
+4886,Russian Federation
+4887,Israel
+4888,Italy
+4889,Singapore
+4890,Unknown
+4891,United Kingdom
+4892,Mexico
+4893,United Kingdom
+4894,Germany
+4895,Saudi Arabia
+4896,France
+4897,United States
+4898,United States
+4899,Spain
+4900,Italy
+4901,Argentina
+4902,Germany
+4903,Italy
+4904,Canada
+4905,Canada
+4906,Turkey
+4907,Unknown
+4908,United States
+4909,United States
+4910,Taiwan
+4911,France
+4912,Egypt
+4913,Denmark
+4914,Canada
+4915,United States
+4916,United States
+4917,China
+4918,China
+4919,Brazil
+4920,Republic of
+4921,Unknown
+4922,Unknown
+4923,France
+4924,Saudi Arabia
+4925,Unknown
+4926,China
+4927,Spain
+4928,Unknown
+4929,Netherlands
+4930,Italy
+4931,Unknown
+4932,United States
+4933,France
+4934,Unknown
+4935,United States
+4936,France
+4937,Japan
+4938,United States
+4939,United Kingdom
+4940,United States
+4941,China
+4942,Russian Federation
+4943,United Kingdom
+4944,Islamic Republic of
+4945,United States
+4946,United Kingdom
+4947,Russian Federation
+4948,Unknown
+4949,Germany
+4950,France
+4951,France
+4952,Italy
+4953,Canada
+4954,United States
+4955,Brazil
+4956,United States
+4957,Spain
+4958,France
+4959,Colombia
+4960,Egypt
+4961,Malaysia
+4962,China
+4963,Turkey
+4964,New Zealand
+4965,France
+4966,France
+4967,Brazil
+4968,Russian Federation
+4969,Turkey
+4970,France
+4971,Germany
+4972,Hong Kong
+4973,Unknown
+4974,Brazil
+4975,Unknown
+4976,France
+4977,France
+4978,United States
+4979,Turkey
+4980,Turkey
+4981,United States
+4982,United States
+4983,France
+4984,Malaysia
+4985,Netherlands
+4986,Unknown
+4987,Spain
+4988,United Kingdom
+4989,Egypt
+4990,United States
+4991,United States
+4992,Canada
+4993,Canada
+4994,Italy
+4995,Unknown
+4996,Egypt
+4997,France
+4998,United States
+4999,United States
+5000,Mexico
+5001,China
+5002,France
+5003,Brazil
+5004,China
+5005,China
+5006,United Kingdom
+5007,France
+5008,Brazil
+5009,Egypt
+5010,France
+5011,France
+5012,Unknown
+5013,United States
+5014,United States
+5015,Germany
+5016,Turkey
+5017,Norway
+5018,United States
+5019,China
+5020,United Kingdom
+5021,Thailand
+5022,Canada
+5023,United States
+5024,Canada
+5025,United States
+5026,China
+5027,China
+5028,Canada
+5029,Japan
+5030,United States
+5031,Unknown
+5032,France
+5033,Unknown
+5034,Unknown
+5035,China
+5036,Pakistan
+5037,Egypt
+5038,Belgium
+5039,United States
+5040,Saudi Arabia
+5041,France
+5042,France
+5043,United States
+5044,Vietnam
+5045,Turkey
+5046,Unknown
+5047,Unknown
+5048,Jordan
+5049,Croatia
+5050,United States
+5051,Switzerland
+5052,United Kingdom
+5053,Canada
+5054,United States
+5055,Australia
+5056,United States
+5057,France
+5058,France
+5059,Canada
+5060,United States
+5061,United States
+5062,United Kingdom
+5063,France
+5064,Canada
+5065,Singapore
+5066,Turkey
+5067,Burkina Faso
+5068,China
+5069,Italy
+5070,United States
+5071,Canada
+5072,Hong Kong
+5073,Turkey
+5074,France
+5075,Unknown
+5076,United States
+5077,United States
+5078,Unknown
+5079,Canada
+5080,Unknown
+5081,Unknown
+5082,Bangladesh
+5083,Canada
+5084,Turkey
+5085,Germany
+5086,China
+5087,Turkey
+5088,United States
+5089,Egypt
+5090,United States
+5091,United States
+5092,France
+5093,United Kingdom
+5094,United Kingdom
+5095,Canada
+5096,United States
+5097,Thailand
+5098,China
+5099,Canada
+5100,Unknown
+5101,United Kingdom
+5102,Honduras
+5103,Italy
+5104,Spain
+5105,Egypt
+5106,France
+5107,United States
+5108,France
+5109,Canada
+5110,United Kingdom
+5111,France
+5112,Unknown
+5113,United States
+5114,United States
+5115,United Kingdom
+5116,Turkey
+5117,United Kingdom
+5118,Unknown
+5119,United States
+5120,France
+5121,Egypt
+5122,Canada
+5123,United States
+5124,Spain
+5125,United Kingdom
+5126,Turkey
+5127,Turkey
+5128,Unknown
+5129,China
+5130,United Kingdom
+5131,Unknown
+5132,Canada
+5133,Bangladesh
+5134,Unknown
+5135,United Kingdom
+5136,Poland
+5137,South Africa
+5138,Colombia
+5139,Unknown
+5140,United States
+5141,Canada
+5142,Spain
+5143,United States
+5144,United States
+5145,United States
+5146,Canada
+5147,Egypt
+5148,Singapore
+5149,Australia
+5150,Unknown
+5151,China
+5152,Argentina
+5153,United States
+5154,Austria
+5155,Unknown
+5156,Belgium
+5157,Belgium
+5158,United States
+5159,United States
+5160,China
+5161,Greece
+5162,Netherlands
+5163,China
+5164,China
+5165,Unknown
+5166,Brazil
+5167,United States
+5168,Unknown
+5169,India
+5170,Argentina
+5171,Hong Kong
+5172,Poland
+5173,Unknown
+5174,France
+5175,United Kingdom
+5176,Unknown
+5177,France
+5178,Canada
+5179,United States
+5180,United States
+5181,Switzerland
+5182,Turkey
+5183,United States
+5184,Unknown
+5185,United States
+5186,Japan
+5187,United States
+5188,Unknown
+5189,France
+5190,Poland
+5191,United States
+5192,France
+5193,Spain
+5194,Switzerland
+5195,United States
+5196,Unknown
+5197,Egypt
+5198,Sweden
+5199,United Kingdom
+5200,Singapore
+5201,Republic of
+5202,United Kingdom
+5203,United States
+5204,United Kingdom
+5205,Egypt
+5206,Italy
+5207,United States
+5208,United States
+5209,Argentina
+5210,United States
+5211,United Kingdom
+5212,Germany
+5213,Unknown
+5214,Canada
+5215,China
+5216,United States
+5217,United States
+5218,Unknown
+5219,Germany
+5220,United States
+5221,United States
+5222,Australia
+5223,Switzerland
+5224,India
+5225,Turkey
+5226,China
+5227,Unknown
+5228,Unknown
+5229,Unknown
+5230,Turkey
+5231,United States
+5232,Italy
+5233,United States
+5234,France
+5235,Germany
+5236,Italy
+5237,United Kingdom
+5238,United States
+5239,United Kingdom
+5240,United States
+5241,Spain
+5242,Egypt
+5243,Hungary
+5244,United Kingdom
+5245,Ghana
+5246,France
+5247,United States
+5248,United States
+5249,Poland
+5250,Poland
+5251,Taiwan
+5252,Canada
+5253,United States
+5254,United States
+5255,Unknown
+5256,Canada
+5257,Republic of
+5258,Germany
+5259,United States
+5260,Romania
+5261,United Kingdom
+5262,United Kingdom
+5263,Israel
+5264,Turkey
+5265,Canada
+5266,United Kingdom
+5267,Spain
+5268,United Kingdom
+5269,Cyprus
+5270,Poland
+5271,Belgium
+5272,United States
+5273,China
+5274,United States
+5275,France
+5276,United States
+5277,Turkey
+5278,United States
+5279,Turkey
+5280,Hong Kong
+5281,United States
+5282,United States
+5283,Netherlands
+5284,Ireland
+5285,Lithuania
+5286,Unknown
+5287,United States
+5288,United States
+5289,Taiwan
+5290,Canada
+5291,United States
+5292,Ireland
+5293,Unknown
+5294,Mexico
+5295,United States
+5296,Unknown
+5297,United States
+5298,United States
+5299,Canada
+5300,Germany
+5301,United Kingdom
+5302,Unknown
+5303,China
+5304,Singapore
+5305,China
+5306,Unknown
+5307,United States
+5308,United States
+5309,United States
+5310,United Kingdom
+5311,India
+5312,China
+5313,Colombia
+5314,Canada
+5315,United States
+5316,United States
+5317,Canada
+5318,United States
+5319,Unknown
+5320,Barbados
+5321,United States
+5322,Denmark
+5323,Canada
+5324,United States
+5325,Belgium
+5326,United States
+5327,United States
+5328,France
+5329,United States
+5330,United States
+5331,United States
+5332,United States
+5333,United Kingdom
+5334,United States
+5335,Unknown
+5336,Unknown
+5337,United States
+5338,Canada
+5339,United States
+5340,France
+5341,United States
+5342,Unknown
+5343,Unknown
+5344,United States
+5345,Hong Kong
+5346,United States
+5347,Spain
+5348,Germany
+5349,China
+5350,China
+5351,Unknown
+5352,China
+5353,United States
+5354,Brazil
+5355,Republic of
+5356,United States
+5357,Republic of
+5358,United States
+5359,United States
+5360,Belgium
+5361,Sweden
+5362,Taiwan
+5363,China
+5364,China
+5365,United Kingdom
+5366,United States
+5367,United States
+5368,Canada
+5369,Canada
+5370,United States
+5371,United States
+5372,United Kingdom
+5373,Brazil
+5374,Canada
+5375,Turkey
+5376,Canada
+5377,United States
+5378,Unknown
+5379,Canada
+5380,Unknown
+5381,Unknown
+5382,United States
+5383,United Kingdom
+5384,Italy
+5385,Turkey
+5386,United Kingdom
+5387,Iraq
+5388,United Kingdom
+5389,Unknown
+5390,Hong Kong
+5391,India
+5392,United States
+5393,Sweden
+5394,Republic of
+5395,Turkey
+5396,United States
+5397,United States
+5398,France
+5399,Unknown
+5400,Singapore
+5401,Canada
+5402,United States
+5403,United Kingdom
+5404,Canada
+5405,France
+5406,Ireland
+5407,Hong Kong
+5408,Slovenia
+5409,Spain
+5410,United States
+5411,Canada
+5412,United States
+5413,Spain
+5414,United States
+5415,Unknown
+5416,United States
+5417,United States
+5418,United States
+5419,United Kingdom
+5420,Unknown
+5421,Ukraine
+5422,France
+5423,Canada
+5424,United Kingdom
+5425,United Kingdom
+5426,Peru
+5427,Canada
+5428,United Kingdom
+5429,Unknown
+5430,United Kingdom
+5431,Switzerland
+5432,Unknown
+5433,Unknown
+5434,Chile
+5435,United States
+5436,United States
+5437,Canada
+5438,Unknown
+5439,China
+5440,United States
+5441,United States
+5442,United States
+5443,Germany
+5444,United States
+5445,Canada
+5446,United States
+5447,United Kingdom
+5448,Unknown
+5449,United Kingdom
+5450,Switzerland
+5451,Canada
+5452,United States
+5453,France
+5454,United States
+5455,United States
+5456,Australia
+5457,Egypt
+5458,United States
+5459,Israel
+5460,United Kingdom
+5461,United States
+5462,Unknown
+5463,Spain
+5464,Unknown
+5465,United States
+5466,Turkey
+5467,United States
+5468,United States
+5469,Unknown
+5470,United States
+5471,Egypt
+5472,Unknown
+5473,Turkey
+5474,United Kingdom
+5475,Australia
+5476,United States
+5477,Unknown
+5478,United States
+5479,Unknown
+5480,United States
+5481,Australia
+5482,Canada
+5483,United States
+5484,Netherlands
+5485,Uganda
+5486,Turkey
+5487,United States
+5488,Spain
+5489,Norway
+5490,United States
+5491,Portugal
+5492,United States
+5493,Unknown
+5494,Spain
+5495,Sweden
+5496,Poland
+5497,Sweden
+5498,Turkey
+5499,Turkey
+5500,Turkey
+5501,United States
+5502,United States
+5503,Finland
+5504,United States
+5505,France
+5506,Germany
+5507,United States
+5508,United States
+5509,United States
+5510,United States
+5511,United Kingdom
+5512,United States
+5513,United States
+5514,United States
+5515,Chile
+5516,Argentina
+5517,France
+5518,United States
+5519,Canada
+5520,Unknown
+5521,Turkey
+5522,Unknown
+5523,United States
+5524,Unknown
+5525,United States
+5526,India
+5527,United States
+5528,United States
+5529,United States
+5530,United States
+5531,Hong Kong
+5532,Belgium
+5533,United States
+5534,United States
+5535,Bangladesh
+5536,Turkey
+5537,Unknown
+5538,Austria
+5539,United States
+5540,United States
+5541,Unknown
+5542,United States
+5543,Russian Federation
+5544,United States
+5545,United States
+5546,United States
+5547,Canada
+5548,United States
+5549,Canada
+5550,Italy
+5551,United States
+5552,France
+5553,United States
+5554,United States
+5555,United States
+5556,Hong Kong
+5557,United States
+5558,United States
+5559,Belgium
+5560,Zambia
+5561,Germany
+5562,United States
+5563,Denmark
+5564,United States
+5565,United States
+5566,United States
+5567,Canada
+5568,United Kingdom
+5569,United States
+5570,United States
+5571,Switzerland
+5572,United States
+5573,Germany
+5574,United States
+5575,Denmark
+5576,United States
