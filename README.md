@@ -6,7 +6,19 @@ The project implements a pipeline to clean unstructured clinical data and explor
 A second Jupyter Notebook contains the preparation of the raw dataset to structured tables designed dor MySQL integration
 
 ## Questions Raised
-
+ 1. Landscape Overview:
+   - How were trials distributed by type, status and phase?
+   - How Status evolved over time?
+   - What were the most studied conditions and comorbidities alongside COVID-19?
+ 2. Failure Analysis:
+   - Which aspects are associated with unsuccessful trials?
+ 3. Enrollment Performance:
+   - What type of studies had higher enrollment and why?
+ 4. Geographical Overview:
+   - What countries led the research?
+ 5. Duration Analysis:
+   - What was the typical trial duration by phase?
+   - What trials took longer than expected?
 
 ## Project Structure
 ```text
@@ -36,3 +48,9 @@ COVID-19-clinical-trials/
 - Visualization: Matplotlib, Seaborn
 - Standard Library: `os` (File System Management)
 - Database Management: MySQL
+
+## Final considerations
+- Performed all the analysis and vizualization on Python
+- During the Cleaning phase, some columns (eg.'Acronym'). When loading the clean dataset to MySQL, the dropped columns were not included
+- The Schema is missing the tables 'conditions' and 'outcomes'. Tried using ReGex to extract and clean information from 'Outcome Measures' and 'Conditions' but the results were not satisfatory.
+- AI was heavily used to generate the code
