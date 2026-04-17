@@ -28,6 +28,8 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ![Trial Distribution](outputs/plots/landscape_study%20type%20dist.png)
 
+
+![Trial Distribution]outputs/plots/landscape_status%dist.png
 ## Project Structure
 ```text
 COVID-19-clinical-trials/
