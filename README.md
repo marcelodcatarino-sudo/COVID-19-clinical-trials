@@ -22,7 +22,7 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ## Key Insights
 
-![Trial Distribution](../outputs/plots/landscape_study type dist.png)
+![Trial Distribution](outputs/plots/landscape_study%20type%20dist.png)
 
 ## Project Structure
 ```text
