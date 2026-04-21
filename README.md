@@ -63,7 +63,7 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 ### 3. Enrollment Performance
 - Observational studies were found to  enroll more participants than Interventional studies, with a median of 300 vs 120 respectively.
 
-![Enrollment Distribution](outputs/plots/Dist%20of%20enrollment_%20interv%20vs%20Obs.png)
+![Enrollment Distribution](outputs/plots/Dist_of_enrollment_ interv_vs_Obs.png)
 
 ### 4. Geographical Overview
 - The countries that led the research are the USA (by far), France and United Kingdom. A large volum of studies with Unkown location was observed. These correspond mainly to studies that are Not recruiting yet, which indicates that the location where the studies will be conducted is yet to be determined.
