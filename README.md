@@ -96,6 +96,7 @@ COVID-19-clinical-trials/
 |         |                ├── locations_table.csv
 |         |                ├── sponsors_table.csv
 |         |                ├── studies_table.csv
+|         |                ├── conditions_table.csv
 |         |                └── study_design_table.csv
 │         └── raw/ 
 |              └──COVID clinical trials.csv
