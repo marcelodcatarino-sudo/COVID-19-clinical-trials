@@ -123,7 +123,7 @@ COVID-19-clinical-trials/
 ## Final Considerations and Improvements
 - Performed all the analysis and vizualization on Python
 - During the Cleaning phase, some columns (eg.'Acronym'). When loading the clean dataset to MySQL, the dropped columns were not included
-- The Schema is missing the tables 'conditions' and 'outcomes'. Tried using ReGex to extract and clean information from 'Outcome Measures' and 'Conditions' but the results were not satisfatory.
+- The Schema is missing the table 'outcomes'. Tried using ReGex to extract and clean information from 'Outcome Measures' but the results were not satisfatory.
 - File 'SQL queries' contains a set of queries to demonstrate the ability to conduct data retrieval, aggregation and table joins 
 - AI was heavily used to generate the code
 - Wasn't able to use Docker for containerization. To run this project locally, please find the libraries listed in requirements.txt
