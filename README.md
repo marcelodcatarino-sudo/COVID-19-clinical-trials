@@ -105,6 +105,21 @@ COVID-19-clinical-trials/
 │       ├── Data cleaning and EDA.ipynb
 │       └── Preparation for MySQL.ipynb
 ├── outputs/plots/
+|             ├── Dist_of_enrollment_interv_vs_Obs.png
+|             ├── da_completion_without_outliers.png
+|             ├── da_completionbyphase.png
+|             ├── da_inspectionofoutliers.png
+|             ├── failure_by_funder.png
+|             ├── failure_by_phase.png
+|             ├── geographic_top10.png
+|             ├── geographic_unknowns.png
+|             ├── landscape_phase_dist.png
+|             ├── landscape_phasesvsstatus.png
+|             ├── landscape_status_dist.png
+|             ├── landscape_statusbystarty.png
+|             ├── landscape_studytypedist.png
+|             ├── landscape_therapeutic_focus.png
+|             └── total studies_Interv vs Obs.png
 ├── MySQL schema/
 |        ├── Covid19_db.sql
 |        └── SQL Queries.sql
