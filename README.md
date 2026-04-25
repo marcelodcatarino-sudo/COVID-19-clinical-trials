@@ -92,11 +92,12 @@ COVID-19-clinical-trials/
 │         ├── processed/                   
 |         |     ├── DF_COVID_CLEAN.csv
 |         |     └── structured tables/
+|         |                ├── conditions_table.csv
 |         |                ├── interventions_table.csv 
 |         |                ├── locations_table.csv
+|         |                ├── outcome_table.csv
 |         |                ├── sponsors_table.csv
 |         |                ├── studies_table.csv
-|         |                ├── conditions_table.csv
 |         |                └── study_design_table.csv
 │         └── raw/ 
 |              └──COVID clinical trials.csv
