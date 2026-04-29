@@ -102,6 +102,7 @@ COVID-19-clinical-trials/
 │         └── raw/ 
 |              └──COVID clinical trials.csv
 ├── notebooks/
+│       ├── .env.example
 │       ├── Data cleaning and EDA.ipynb
 │       └── Preparation for MySQL.ipynb
 ├── outputs/plots/
