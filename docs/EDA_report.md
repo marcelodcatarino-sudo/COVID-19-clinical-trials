@@ -43,7 +43,7 @@ This report details the findings extracted from the ClinicalTrials.gov dataset, 
 - Observational studies represent a significant share (42.2%), indicating the need to monitor and understand the disease's progression and long-term effects across populations. 
 - Expanded Access (0.6%) represents a negligible fraction, as expected. These programs provide patients with serious conditions access to investigational treatments outside of formal clinical trials and have an exceptional nature.
 
-![Study type Distribution](outputs/plots/landscape_studytypedist.png)
+![Study type Distribution](../outputs/plots/landscape_studytypedist.png)
 
 - Most of the Studies were in the Recruiting and Not yet recruiting phases. The peak of trial registrations occurred in 2020, coinciding with the outbreak of the pandemic.
 
