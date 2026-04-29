@@ -46,7 +46,7 @@ The project follows a modular Data Engineering pipeline:
 
 * **Enrollment Drivers:** Observational trials achieved significantly higher medians (300 vs 120) by leveraging technology and mobile apps for recruitment.
 
-* **Geographic Outliers:** Geographic Distribution: Research volume was heavily concentrated in the U.S., France, and the UK, which together account for the majority of clinical initiatives (~40%).
+* **Geographic Outliers:** Geographic Distribution: Research volume was heavily concentrated in the U.S., France, and the UK, which together account nearly for 40% of clinical initiatives.
   
 * **Duration Dynamics:** Clinical trials typically last 10–12 months, but combined Phase 2|3 studies show the longest average duration (~13.5 months), highlighting the logistical complexity of merging exploratory and confirmatory objectives.
 
