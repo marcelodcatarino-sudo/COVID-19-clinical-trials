@@ -129,6 +129,6 @@ COVID-19-clinical-trials/
 
 ## 📝 Final Considerations and Improvements
 
-- File 'SQL queries' contains a set of queries to demonstrate the ability to conduct data retrieval, aggregation and table joins 
-- AI was heavily used to generate the code
+- File 'SQL queries' contains a set of queries used to create the views and manipulate the database. 
+- AI was leveraged to generate and optimize the code
 - Wasn't able to use Docker for containerization. To run this project locally, please find the libraries listed in requirements.txt
