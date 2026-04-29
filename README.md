@@ -5,6 +5,19 @@ This repository contains a Jupyter Notebook focused on the Data Engineering and 
 The project implements a pipeline to clean unstructured clinical data and explores key insights about the global research landscape during the COVID-19 pandemic, covering study types, phases, enrollment, therapeutic focus areas, failure and geographic distribution of trials.
 A second Jupyter Notebook contains the preparation of the raw dataset to structured tables designed dor MySQL integration
 
+## 🚀 Quick Start
+
+1. **Clone the repository:**
+   `git clone https://github.com/teu-utilizador/COVID-19-clinical-trials.git`
+
+2. **Setup Environment:**
+   - Create a `.env` file based on `.env.example`.
+   - Install dependencies: `pip install -r requirements.txt`
+
+3. **Database Setup:**
+   - Run the script in `MySQL schema/covid19_db.sql` to create the database structure.
+   - Run the Notebook `Preparation for MySQL.ipynb` to populate the tables.
+
 ## Questions Raised
 1. Landscape Overview:
    - How were trials distributed by type, status and phase?
