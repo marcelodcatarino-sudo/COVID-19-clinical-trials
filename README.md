@@ -121,6 +121,7 @@ COVID-19-clinical-trials/
 - Development: Jupyter Notebook / VS Code
 - Language: Python 3.15.3
 - Data Manipulation: Pandas, NumPy, re
+- Statistical Analysis: SciPy
 - Visualization: Matplotlib, Seaborn, IPython.display, Power BI
 - Standard Library & Utilities: `os` (File System Management), python-dotenv (Environment Variable Management)
 - Database Management: MySQL 8.0.44, SQLAlchemy, PyMySQL
