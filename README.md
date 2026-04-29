@@ -5,6 +5,8 @@ This repository contains a Jupyter Notebook focused on the Data Engineering and 
 The project implements a pipeline to clean unstructured clinical data and explores key insights about the global research landscape during the COVID-19 pandemic, covering study types, phases, enrollment, therapeutic focus areas, failure and geographic distribution of trials.
 A second Jupyter Notebook contains the preparation of the raw dataset to structured tables designed dor MySQL integration
 
+![Dashboard](outputs/plots/dashboard.png)
+
 ## 🚀 Quick Start
 
 1. **Clone the repository:**
