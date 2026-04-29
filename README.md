@@ -100,12 +100,14 @@ COVID-19-clinical-trials/
 |         |                ├── studies_table.csv
 |         |                └── study_design_table.csv
 │         └── raw/ 
-|              └──COVID clinical trials.csv
+|              └── COVID clinical trials.csv
 ├── notebooks/
 │       ├── .env.example
 │       ├── Data cleaning and EDA.ipynb
 │       └── Preparation for MySQL.ipynb
-├── outputs/plots/
+├── outputs/
+│       ├── dashboard.pbix
+│       └── plots/
 |             ├── Dist_of_enrollment_interv_vs_Obs.png
 |             ├── da_completion_without_outliers.png
 |             ├── da_completionbyphase.png
