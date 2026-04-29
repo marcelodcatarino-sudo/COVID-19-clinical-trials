@@ -1,7 +1,7 @@
 # COVID-19-clinical-trials
 
 ## 🎯 Summary
-This project analyzes the global landscape of COVID-19 clinical research. By engineering a pipeline from raw ClinicalTrials.gov data to a structured MySQL database. The goal was to uncovered key patterns in trial landscape, success, enrollment, and geographic distribution.
+This project analyzes the global landscape of COVID-19 clinical research. By engineering a pipeline from raw ClinicalTrials.gov data to a structured MySQL database, the goal was to uncover key patterns in trial landscape, success, enrollment, and geographic distribution.
 
 ![Dashboard](outputs/plots/dashboard.png)
 **Note:** For the full interactive experience, open the outputs/dashboard.pbix file with Power BI Desktop.
@@ -46,7 +46,7 @@ The project follows a modular Data Engineering pipeline:
 
 * **Enrollment Drivers:** Observational trials achieved significantly higher medians (300 vs 120) by leveraging technology and mobile apps for recruitment.
 
-* **Geographic Outliers:** While the USA leads research volume, Egypt (Tanta University) emerged as a significant outlier with trials projected far beyond 2026.
+* **Geographic Outliers:** Geographic Distribution: Research volume was heavily concentrated in the U.S., France, and the UK, which together account for the majority of clinical initiatives (~40%).
   
 * **Duration Dynamics:** Clinical trials typically last 10–12 months, but combined Phase 2|3 studies show the longest average duration (~13.5 months), highlighting the logistical complexity of merging exploratory and confirmatory objectives.
 
