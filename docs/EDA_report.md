@@ -1,22 +1,6 @@
-# COVID-19-clinical-trials
+# Exploratory Data Analysis Report: COVID-19-clinical-trials
 
-## Project Description
-This repository contains a Jupyter Notebook focused on the Data Engineering and Analysis of ClinicalTrials.gov COVID-19 datasets.
-The project implements a pipeline to clean unstructured clinical data and explores key insights about the global research landscape during the COVID-19 pandemic, covering study types, phases, enrollment, therapeutic focus areas, failure and geographic distribution of trials.
-A second Jupyter Notebook contains the preparation of the raw dataset to structured tables designed dor MySQL integration
-
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   `git clone https://github.com/teu-utilizador/COVID-19-clinical-trials.git`
-
-2. **Setup Environment:**
-   - Create a `.env` file based on `.env.example`.
-   - Install dependencies: `pip install -r requirements.txt`
-
-3. **Database Setup:**
-   - Run the script in `MySQL schema/covid19_db.sql` to create the database structure.
-   - Run the Notebook `Preparation for MySQL.ipynb` to populate the tables.
+This report details the findings extracted from the ClinicalTrials.gov dataset, focusing on the global research dynamics during the COVID-19 pandemic.
 
 ## Questions Raised
 1. Landscape Overview:
@@ -33,7 +17,25 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
    - What was the typical trial duration by phase?
    - What trials took longer than expected?
 
+---
+
 ## Key Insights
+
+* **Interventional Dominance:** 57.2% of studies focused on direct treatments, with a massive registration peak in 2020.
+* **Recruitment Efficiency:** Observational studies significantly outperform Interventional trials in participant volume (Median 300 vs 120).
+* **Failure Patterns:** Academic and Federal institutions show higher early termination rates in critical stages (Phases 2 and 3).
+* **Geographic Anomalies:** A significant volume of unusually long-duration studies was identified in Egypt, specifically linked to Tanta University.
+
+---
+
+## Table of Contents
+1. [Landscape Overview](#1-landscape-overview)
+2. [Failure Analysis](#2-failure-analysis)
+3. [Enrollment Performance](#3-enrollment-performance)
+4. [Geographical Overview](#4-geographical-overview)
+5. [Duration Analysis](#5-duration-analysis)
+
+---
 
 ### 1. Landscape overview
 
@@ -62,6 +64,8 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ![Therapeutic Focus](outputs/plots/landscape_therapeutic_focus.png)
 
+---
+
 ### 2. Failure Analysis
 - Focusing on unsuccessful studies (Withdrawn, Terminated, Suspended), the majority were associated to Academic and Public funders (typically categorized as 'Others'). In these institutions, resources are more limited which could explain the higher failure rates.
 
@@ -73,10 +77,14 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
 ![Failure by Phase](outputs/plots/failure_by_phase.png)
 
+---
+
 ### 3. Enrollment Performance
 - Observational studies were found to  enroll more participants than Interventional studies, with a median of 300 vs 120 respectively.
 
 ![Enrollment Distribution](outputs/plots/Dist_of_enrollment_interv_vs_Obs.png)
+
+---
 
 ### 4. Geographical Overview
 - The countries that led the research are the USA (by far), France and United Kingdom. A large volum of studies with Unkown location was observed. These correspond mainly to studies that are Not recruiting yet, which indicates that the location where the studies will be conducted is yet to be determined.
@@ -84,6 +92,8 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 ![Top 10 Countries](outputs/plots/geographic_top10.png)
 
 ![Geographic Unknowns](outputs/plots/geographic_unknowns.png)
+
+---
 
 ### 5. Duration Analysis
 - The majority of studies across all phases appear to have completion dates between 2020 and 2025.
@@ -95,65 +105,7 @@ A second Jupyter Notebook contains the preparation of the raw dataset to structu
 
  ![Outliers Analysis](outputs/plots/da_inspectionofoutliers.png)
 
+ ---
+
 ## Conclusions
 The analysis revealed a highly dynamic ecosystem where Interventional studies dominated the research effort to find immediate clinical solutions, while Observational research provided the necessary scale through Big Data and technology-driven recruitment to understand the disease's broader impact. While there is much room for improvement in terms of data cleaning and transformation, this analysis proves its value in filtering noise and pinpointing logistical anomalies, such as failure patterns in critical stages (Phases 2 and 3) and geographical outliers in trial durations.
-
-## Project Structure
-```text
-COVID-19-clinical-trials/
-├── src/Data/  
-│         ├── processed/                   
-|         |     ├── DF_COVID_CLEAN.csv
-|         |     └── structured tables/
-|         |                ├── conditions_table.csv
-|         |                ├── interventions_table.csv 
-|         |                ├── locations_table.csv
-|         |                ├── outcome_table.csv
-|         |                ├── sponsors_table.csv
-|         |                ├── studies_table.csv
-|         |                └── study_design_table.csv
-│         └── raw/ 
-|              └── COVID clinical trials.csv
-├── notebooks/
-│       ├── .env.example
-│       ├── Data cleaning and EDA.ipynb
-│       └── Preparation for MySQL.ipynb
-├── outputs/
-│       ├── dashboard.pbix
-│       └── plots/
-|             ├── Dist_of_enrollment_interv_vs_Obs.png
-|             ├── da_completion_without_outliers.png
-|             ├── da_completionbyphase.png
-|             ├── da_inspectionofoutliers.png
-|             ├── failure_by_funder.png
-|             ├── failure_by_phase.png
-|             ├── geographic_top10.png
-|             ├── geographic_unknowns.png
-|             ├── landscape_phase_dist.png
-|             ├── landscape_phasesvsstatus.png
-|             ├── landscape_status_dist.png
-|             ├── landscape_statusbystarty.png
-|             ├── landscape_studytypedist.png
-|             ├── landscape_therapeutic_focus.png
-|             └── total studies_Interv vs Obs.png
-├── MySQL schema/
-|        ├── Covid19_db.sql
-|        └── SQL Queries.sql
-├── README.md
-└── requirements.txt
-```
-
-## Tools
-- Local Environment: Windows 11 (Architecture: amd64)
-- Development: Jupyter Notebook / VS Code
-- Language: Python 3.15.3
-- Data Manipulation: Pandas, NumPy
-- Visualization: Matplotlib, Seaborn
-- Standard Library: `os` (File System Management)
-- Database Management: MySQL 8.0.44
-
-## Final Considerations and Improvements
-- Performed all the analysis and vizualization on Python
-- File 'SQL queries' contains a set of queries to demonstrate the ability to conduct data retrieval, aggregation and table joins 
-- AI was heavily used to generate the code
-- Wasn't able to use Docker for containerization. To run this project locally, please find the libraries listed in requirements.txt
