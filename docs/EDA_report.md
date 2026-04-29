@@ -60,7 +60,7 @@ This report details the findings extracted from the ClinicalTrials.gov dataset, 
 
 ![Phases vs Status](../outputs/plots/landscape_phasesvsstatus.png)
 
-- Looking at the top therapeutic focus areas, the research was predominantly centered around respiratory conditions, which aligns with the known clinical severity of COVID-19 on the respiratory system. Notably, Stress, Anxiety and Depression also ranked prominently, reflecting the significant mental health burden imposed by the pandemic on the general population.
+- Looking at the top therapeutic focus areas (apart from COVID-19), data shows that research was predominantly centered around subconditions such as respiratory complications, which aligns with the known clinical severity of COVID-19 on the respiratory system. Notably, Stress, Anxiety and Depression also ranked prominently, reflecting the significant mental health burden imposed by the pandemic on the general population.
 
 ![Therapeutic Focus](../outputs/plots/landscape_therapeutic_focus.png)
 
