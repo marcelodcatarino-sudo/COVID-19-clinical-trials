@@ -37,6 +37,8 @@ The project follows a modular Data Engineering pipeline:
    - What was the typical trial duration by phase?
    - What trials took longer than expected?
 
+---
+
 ## 💡 Key Findings
 * **Trial Landscape:** 57% of studies were Interventional, with a massive surge in 2020. Most "Not Applicable" phases correlate with Observational studies and Big Data projects.
 
