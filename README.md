@@ -12,13 +12,13 @@ This project analyzes the global landscape of COVID-19 clinical research. By eng
 
 The project follows a modular Data Engineering pipeline:
 
-1. Extraction & Cleaning: notebooks/Data cleaning and EDA.ipynb
+1. **Extraction & Cleaning:** notebooks/Data cleaning and EDA.ipynb
 
-2. Structured Modeling: notebooks/Preparation for MySQL.ipynb
+2. **Structured Modeling:** notebooks/Preparation for MySQL.ipynb
 
-3. Database Integration: MySQL schema with optimized views for BI.
+3. **Database Integration:** MySQL schema with optimized views for BI.
 
-4. Interactive Visualization: Power BI Dashboard.
+4. **Interactive Visualization:** Power BI Dashboard.
 
 ---
 
