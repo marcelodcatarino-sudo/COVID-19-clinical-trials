@@ -66,7 +66,7 @@ The project follows a modular Data Engineering pipeline:
 3. **Database Setup:**
    - Run the script in `MySQL schema/covid19_db.sql` to create the database structure.
 
-     ---
+---
      
 ## 📂 Project Structure
 ```text
