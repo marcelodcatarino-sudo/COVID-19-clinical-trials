@@ -56,7 +56,7 @@ This report details the findings extracted from the ClinicalTrials.gov dataset, 
 
 ![Phase Distribution](../outputs/plots/landscape_phase_dist.png)
 
-- When plotting the phases against the status, it was confirmed that the reason why there was so many Interventional studies without attributed phase, was because these were still in the 'Not yet recruiting' and 'Recruiting' stages.
+- When plotting the phases against the status, a high association (Chi-square p-value < 0.001) between the Status and Interventional trials with N/A phase was found. The majority of these trials were highly distributed between the 'Not yet recruiting' and 'Recruiting' stages.
 
 ![Phases vs Status](../outputs/plots/landscape_phasesvsstatus.png)
 
