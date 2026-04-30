@@ -67,15 +67,17 @@ This report details the findings extracted from the ClinicalTrials.gov dataset, 
 ---
 
 ### 2. Failure Analysis
-- Focusing on unsuccessful studies (Withdrawn, Terminated, Suspended), the majority were associated to Academic and Public funders (typically categorized as 'Others'). In these institutions, resources are more limited which could explain the higher failure rates.
+- Focusing on unsuccessful studies (Withdrawn, Terminated, Suspended), the majority were associated to Public (typically categorized as 'Others') and Federal funders ($p < 0.001$). In these institutions, resources are more limited which could explain the higher failure rates.
 
 ![Failure by Funder Type](../outputs/plots/failure_by_funder.png)
 
-- These unsuccessfull studies were mostly on the phases 2 and 3. While, failure at Phase 2 (Exploratory phase) could be due to insufficient efficay, failure at Phase 3 (Confirmatory phase) may be due to budgetary struggles or loss of interest.
-- Observational studies typically rely on existing records and databases, making it easier and less costly to include large numbers of participants. When inspecting the the titles of the studies with the largest enrollment numbers, these were found to be related to Apps and Big Data projects. Technology-driven research allows projects to attract participants more easily than traditional methods.
-- Interventional studies, on the other hand, require direct intervention and close monitoring of each participant, which naturally limits the scale of recruitment.
+- While failures are concentrated in Phase 2 (Exploratory) and Phase 3 (Confirmatory), the Chi-square test indicates that the risk of failure is actually distributed relatively evenly across all clinical stages ($p = 0.12$). Whether a trial failed due to early efficacy issues (Phase 2) or late-stage budgetary/logistical hurdles (Phase 3), the operational environment was hostile at every phase.
 
 ![Failure by Phase](../outputs/plots/failure_by_phase.png)
+
+- The strongest predictor of failure in this dataset is the Study Type ($p \approx 0$). Interventional trials carried a significantly higher risk profile. These outcomes are likely attributable to the heightened scientific and logistical hurdles of the pandemic. Such disruptions disproportionately affected Interventional research, whereas Observational studies, requiring less physical infrastructure, were largely insulated from these factors.
+
+![Failure by Phase](../outputs/plots/failure_by_type.png)
 
 ---
 
@@ -87,7 +89,7 @@ This report details the findings extracted from the ClinicalTrials.gov dataset, 
 ---
 
 ### 4. Geographical Overview
-- The countries that led the research are the USA (by far), France and United Kingdom. A large volum of studies with Unkown location was observed. These correspond mainly to studies that are Not recruiting yet, which indicates that the location where the studies will be conducted is yet to be determined.
+- The countries that led the research are the USA (by far), France and United Kingdom, representing approximately 40% of the total trials. A large volum of studies with Unkown location was observed. These where found to be tightly associated ($p \approx 0$) with the trial status, with the majority being in the 'Not yet recruiting' phase
 
 ![Top 10 Countries](../outputs/plots/geographic_top10.png)
 
@@ -96,16 +98,19 @@ This report details the findings extracted from the ClinicalTrials.gov dataset, 
 ---
 
 ### 5. Duration Analysis
-- The majority of studies across all phases appear to have completion dates between 2020 and 2025.
-- As expected, Phase 1 and Phase 2 studies tend to have the longest durations (with exception of some outliers). This is consistent with the nature these trials which assessment of safety and efficacy.
+- A weak Spearman correlation (0.19) between Enrollment and Duration reveals that large-scale studies did not correlate to longer trials. The low p-value ($p \approx 0$) indicates that this correlation is statistically significant. In practical terms, this means trial duration remains relatively consistent regardless of whether it involves a large or small number of participants
 
- ![Completion by Phase](../outputs/plots/da_completionbyphase.png)
+ ![Duration_vs_enroll](../outputs/plots/duration_vs_enroll.png)
 
-- When focusing specifically at the studies with unusually long completion dates (extending beyond 2026), these were found to be predominantly conducted in Egypt, with Tanta University standing out as the lead sponsor with the highest number of outlier studies. Naturally, this is reflected in the funding sources where the majority falls under 'Other'.
+- A strong association between trial phase and duration was also confirmed (($p < 0.001)$), with hybrid studies (Phase 1|Phase 2) being slowest to complete (Median: 335 days), likely because they combine the safety requirements of early phases with the efficacy monitoring of later stages. 
 
- ![Outliers Analysis](../outputs/plots/da_inspectionofoutliers.png)
+ ![Duration_vs_phase](../outputs/plots/duration_vs_phase_2.png)
+
+- In turn, while screening and behavioral interventions (bottom) were executed rapidly (Median $\approx$ 60–80 days), complex chronic conditions required longitudinal observation.
+
+![Duration_vs_condition](../outputs/plots/duration_condition.png)
 
  ---
 
 ## Conclusions
-The analysis revealed a highly dynamic ecosystem where Interventional studies dominated the research effort to find immediate clinical solutions, while Observational research provided the necessary scale through Big Data and technology-driven recruitment to understand the disease's broader impact. While there is much room for improvement in terms of data cleaning and transformation, this analysis proves its value in filtering noise and pinpointing logistical anomalies, such as failure patterns in critical stages (Phases 2 and 3) and geographical outliers in trial durations.
+The analysis revealed a highly dynamic ecosystem where Interventional studies dominated the research effort to find immediate clinical solutions, while Observational research provided the necessary scale through Big Data and technology-driven recruitment to understand the disease's broader impact. While there is much room for improvement in terms of data cleaning and transformation, this analysis proves its value in filtering noise and pinpointing logistical anomalies, such as failure patterns across study types and funding sources, as well as the variations in trial durations across different clinical phases and medical conditions.
