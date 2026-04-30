@@ -88,8 +88,8 @@ COVID-19-clinical-trials/
 │       ├── .env.example
 │       ├── Data cleaning and EDA.ipynb
 │       └── Preparation for MySQL.ipynb
-├── notebooks/
-│       └── EDA_report.md
+├── docs/
+│    └── EDA_report.md
 ├── outputs/
 │       ├── dashboard.pbix
 │       └── plots/
